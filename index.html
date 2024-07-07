@@ -1,105 +1,278 @@
-<!DOCTYPE html><html data-theme="light"><head><meta charset="UTF-8"><meta name="mobile-web-app-capable" content="yes"><meta name="apple-touch-fullscreen" content="yes"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"><meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no,minimal-ui"><title>Coolgames</title><link rel="stylesheet" href="pico.min.css"><style>:root {
-			--sait: var(--discord-safe-area-inset-top, env(safe-area-inset-top));
-			--saib: var(--discord-safe-area-inset-bottom, env(safe-area-inset-bottom));
-			--sail: var(--discord-safe-area-inset-left, env(safe-area-inset-left));
-			--sair: var(--discord-safe-area-inset-right, env(safe-area-inset-right));
-		}
-		body {
-			margin: 0px;
-			overflow: hidden;
-			background-color:black;
-		}
-		html {
-			background-color:black;
-		}</style><style>.feedback-dialog >  article {
-			padding-bottom: 0;
-		}
-
-		.feedback-dialog > article > header {
-			position: relative;
-			display: flex;
-    		justify-content: space-between;
-			margin-bottom: 10px;
-		}
-
-		.feedback-buttons {
-			display: flex;
-		}
-
-		.button-close {
-			background: none;
-			font-size: 24px;
-			cursor: pointer;
-			color: white;
-			border-radius: 100%;
-			margin: 0;
-			width: 32px;
-			height: 32px;
-			border-color: initial;
-			background-color: rgb(234,103,134);
-			display: flex;
-			justify-content: center;
-			align-items: center;
-		}
-
-		.feedback-dialog > article > label {
-			margin-bottom: calc(var(--spacing) * 0.5)
-		}
-
-		.feedback-dialog > article > form > textarea {
-			height: 200px;
-		}
-
-		.feedback-header {
-			background-color: rgb(51, 174, 182);
-			color: white;
-			padding: 10px;
-		}
-
-		.feedback-form{
-			width: 100%;
-			overflow: hidden;
-			margin: 0;
-		}
-
-		.feedback-form textarea{
-			resize: none;
-			box-sizing: border-box;
-		}
-		
-		.button-ok {
-			background-color: rgb(87,185,57);
-			border-color: initial;
-			margin-right: 10px;
-		}
-		.button-cancel {
-			border-color: initial;
-			background-color: rgb(234,103,134);
-			margin-left: 10px;
-		}
-
-		#rotate-device-container {
-			margin: 0px; 
-			position: absolute; 
-			display: flex; 
-			align-items: center;
-			justify-content: center; 
-			width: 100%; 
-			height:100%; 
-			background-color:black;
-			visibility: hidden;
-		}
-		@media (orientation:portrait){
-			#rotate-device-image {
-				background-color: blue; 
-				width:50vw; 
-				height:39vw;
-			}
-		}
-		@media (orientation:landscape){
-			#rotate-device-image {
-				background-color: blue; 
-				width:50vh; 
-				height:39vh;
-			}
-		}</style></noscript><script src="https://sdk.crazygames.com/crazygames-sdk-v2.js"></script><script defer="defer" src="loader.f5fae9b80a37606a9b79.js"></script><script defer="defer" src="cg.93e4554de6532a53f5b3.js"></script><script defer="defer" src="pixi.3f6b532dc18f657e214a.js"></script><script defer="defer" src="466.584f0a6234d6d777e0ff.js"></script><script defer="defer" src="main.7d274b14bdd8b4e953fb.js"></script><link rel="canonical" href="https://www.crazygames.com/game/farm-merge-valley"></head><body><dialog class="feedback-dialog" id="feedback-modal"><article><header class="feedback-header" id="feedback-header"><span id="feedback-title">User Feedback</span> <button type="button" class="button-close" id="button-close">✕</button></header><label id="feedback-label">You can help us improve the game by providing additional feedback, reporting bugs or submitting suggestions.</label><form class="feedback-form"><label id="category-header">Category:</label> <select id="category-select" name="feedback-category"></select> <textarea id="feedback-text" placeholder="Let us know what you think!" maxlength="300"></textarea><div class="feedback-buttons"><button type="button" class="button-ok" id="button-submit">Submit</button> <button type="button" class="button-cancel" id="button-cancel">Cancel</button></div></form></article></dialog><dialog id="confirmation-modal" class="feedback-dialog"><article><header id="confirmation-header" class="feedback-header">${TITLE}</header><label id="confirmation-reason">${REASON}</label> <button type="button" id="button-confirmation" class="button-ok">OK</button></article></dialog><div id="rotate-device-container"><img id="rotate-device-image" src alt></div></body></html>
+<!doctype html>
+<html data-theme="light">
+   <head>
+      <meta charset="UTF-8">
+      <meta name="mobile-web-app-capable" content="yes" />
+      <meta name="apple-touch-fullscreen" content="yes" />
+      <meta name="apple-mobile-web-app-capable" content="yes" />
+      <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+      <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no,minimal-ui" />
+      <title>Coolgames</title>
+      <link rel="stylesheet" href="pico.min.css">
+      <style>body {
+         margin: 0px;
+         overflow: hidden;
+         background-color:black;
+         }
+         html {
+         background-color:black;
+         }
+         :root {
+         --sait: var(--discord-safe-area-inset-top, env(safe-area-inset-top));
+         --saib: var(--discord-safe-area-inset-bottom, env(safe-area-inset-bottom));
+         --sail: var(--discord-safe-area-inset-left, env(safe-area-inset-left));
+         --sair: var(--discord-safe-area-inset-right, env(safe-area-inset-right));
+         }
+         :root:not([data-theme=dark]),[data-theme=light].authentication-dialog {
+         --primary: #419f27 !important;
+         --primary-hover: #49B52C !important;
+         --box-shadow: none !important;
+         --form-element-spacing-horizontal: 0.75rem !important;
+         --form-element-spacing-vertical: 0.75rem !important;
+         --font-size: 16px !important;
+         --block-spacing-horizontal: 1.5rem !important;
+         }
+      </style>
+      <style>.feedback-dialog >  article {
+         padding-bottom: 0;
+         }
+         .feedback-dialog > article > header {
+         position: relative;
+         display: flex;
+         justify-content: space-between;
+         margin-bottom: 10px;
+         }
+         .feedback-buttons {
+         display: flex;
+         }
+         .button-close {
+         background: none;
+         font-size: 24px;
+         cursor: pointer;
+         color: white;
+         border-radius: 100%;
+         margin: 0;
+         width: 32px;
+         height: 32px;
+         border-color: initial;
+         background-color: rgb(234,103,134);
+         display: flex;
+         justify-content: center;
+         align-items: center;
+         }
+         .feedback-dialog > article > label {
+         margin-bottom: calc(var(--spacing) * 0.5)
+         }
+         .feedback-dialog > article > form > textarea {
+         height: 200px;
+         }
+         .feedback-header {
+         background-color: rgb(51, 174, 182);
+         color: white;
+         padding: 10px;
+         }
+         .feedback-form{
+         width: 100%;
+         overflow: hidden;
+         margin: 0;
+         }
+         .feedback-form textarea{
+         resize: none;
+         box-sizing: border-box;
+         }
+         .button-ok {
+         background-color: rgb(87,185,57);
+         border-color: initial;
+         margin-right: 10px;
+         }
+         .button-cancel {
+         border-color: initial;
+         background-color: rgb(234,103,134);
+         margin-left: 10px;
+         }
+         #rotate-device-container {
+         margin: 0px; 
+         position: absolute; 
+         display: flex; 
+         align-items: center;
+         justify-content: center; 
+         width: 100%; 
+         height: 100%; 
+         background-color:black;
+         visibility: hidden;
+         }
+         @media (orientation:portrait){
+         #rotate-device-image {
+         background-color: blue; 
+         width:50vw; 
+         height:39vw;
+         }
+         }
+         @media (orientation:landscape){
+         #rotate-device-image {
+         background-color: blue; 
+         width:50vh; 
+         height:39vh;
+         }
+         }
+         @-webkit-keyframes authFadeIn {
+         from {
+         background-color: transparent;
+         }
+         to {
+         background-color: rgba(0, 0, 0, 0.6);
+         }
+         }
+         @keyframes authFadeIn {
+         from {
+         opacity: 0;
+         background-color: transparent;
+         }
+         to {
+         opacity: 1;
+         background-color: rgba(0, 0, 0, 0.6);
+         }
+         }
+         :where(.modal-is-opening, .modal-is-closing) .authentication-dialog {
+         animation-name: authFadeIn;
+         }
+         .align-items-center {
+         align-items: center;
+         }
+         .authentication-dialog {
+         flex-direction: column;
+         }
+         .dialog-article-wrapper {
+         width: 320px;
+         }
+         .dialog-article-wrapper > article {
+         padding: 30px 28.5px !important;
+         overflow: hidden;
+         }
+         .dialog-article-wrapper > article > form {
+         margin-bottom: 0 !important;
+         }
+         .dialog-article-wrapper > article > form > input {
+         height: 45px !important;
+         }
+         .d-none {
+         display: none;
+         }
+         .d-flex {
+         display: flex;
+         }
+         .justify-content-start {
+         justify-content: start;
+         }
+         .justify-content-center {
+         justify-content: center;
+         }
+         .justify-content-between {
+         justify-content: space-between;
+         }
+         .justify-content-around {
+         justify-content: space-around;
+         }
+         .email-login-input {
+         box-shadow: none;
+         }
+         .login-error {
+         color: #e01f1f;
+         margin-bottom: 5px !important;
+         }
+         #login-back-button {
+         background-color: #fff;
+         border: var(--border-width) solid var(--form-element-border-color);
+         color: var(--primary);
+         }
+         #login-button-email,
+         #login-button-email-token,
+         #login-back-button {
+         height: 38px !important;
+         line-height: 0;
+         }
+         @media screen and ( max-height: 360px ) {
+         .login-form-divider {
+         display: none !important;
+         }
+         #email-login-form,
+         #email-token-form {
+         margin-top: 20px;
+         }
+         }
+         .login-form-divider {
+         display: flex;
+         align-items: center;
+         justify-content: center;
+         margin: .75rem 0;
+         }
+         .login-form-divider > span {
+         background-color: #000;
+         flex-grow: 1;
+         height: 1px;
+         }
+         .login-form-divider > p {
+         color: #000;
+         padding: 0 1rem;
+         }
+         .button-link {
+         display: inline-block;
+         margin: 0;
+         width: auto;
+         border: none;
+         padding: 0;
+         background-color: transparent;
+         color: #4380ed;
+         }
+         .button-link:hover {
+         color: #286eeb;
+         }
+      </style>
+      </noscript><script defer="defer" src="loader.f5fae9b80a37606a9b79.js"></script><script defer="defer" src="cg.93e4554de6532a53f5b3.js"></script><script defer="defer" src="pixi.3f6b532dc18f657e214a.js"></script><script defer="defer" src="466.584f0a6234d6d777e0ff.js"></script><script defer="defer" src="main.31cc19bda71d47d328c9.js"></script>
+   </head>
+   <body>
+      <dialog class="feedback-dialog" id="feedback-modal">
+         <article>
+            <header class="feedback-header" id="feedback-header"><span id="feedback-title">User Feedback</span> <button type="button" class="button-close" id="button-close">✕</button></header>
+            <label id="feedback-label">You can help us improve the game by providing additional feedback, reporting bugs or submitting suggestions.</label>
+            <form class="feedback-form">
+               <label id="category-header">Category:</label> <select id="category-select" name="feedback-category"></select> 
+               <textarea id="feedback-text" placeholder="Let us know what you think!" maxlength="300"></textarea>
+               <div class="feedback-buttons"><button type="button" class="button-ok" id="button-submit">Submit</button> <button type="button" class="button-cancel" id="button-cancel">Cancel</button></div>
+            </form>
+         </article>
+      </dialog>
+      <dialog id="confirmation-modal" class="feedback-dialog">
+         <article>
+            <header id="confirmation-header" class="feedback-header">${TITLE}</header>
+            <label id="confirmation-reason">${REASON}</label> <button type="button" id="button-confirmation" class="button-ok">OK</button>
+         </article>
+      </dialog>
+      <div id="rotate-device-container"><img id="rotate-device-image" src alt></div>
+      <dialog class="authentication-dialog" id="login-modal">
+         <div class="dialog-article-wrapper">
+            <article>
+               <form id="email-login-form">
+                  <input id="email-login-input" type="email" name="email" required="required" placeholder="email@example.org" />
+                  <p id="email-login-error-message" class="d-none login-error">Provided information didn't match, please try again</p>
+                  <input id="login-button-email" type="submit" name="submit-email" value="Log In" />
+               </form>
+               <form id="email-token-form" class="d-none">
+                  <input id="email-token-input" name="token" required="required" placeholder="Token" maxlength="6" />
+                  <div class="d-flex justify-content-between">
+                     <button class="d-flex justify-content-center align-items-center" id="login-back-button" type="button" style="flex: .15">
+                        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#419f27" version="1.1" width="16px" height="16px" viewBox="0 0 493.578 493.578" xml:space="preserve">
+                           <g>
+                              <path d="M487.267,225.981c0-17.365-13.999-31.518-31.518-31.518H194.501L305.35,83.615c12.24-12.24,12.24-32.207,0-44.676   L275.592,9.18c-12.24-12.24-32.207-12.24-44.676,0L15.568,224.527c-6.12,6.12-9.256,14.153-9.256,22.262   c0,8.032,3.136,16.142,9.256,22.262l215.348,215.348c12.24,12.239,32.207,12.239,44.676,0l29.758-29.759   c12.24-12.24,12.24-32.207,0-44.676L194.501,299.498h261.094c17.366,0,31.519-14.153,31.519-31.519L487.267,225.981z" />
+                           </g>
+                        </svg>
+                     </button>
+                     <input id="login-button-email-token" type="submit" name="submit-token" value="Verify" style="flex: .80" />
+                  </div>
+               </form>
+               <p id="trans-continue-as-guest">Click <a id="continue-as-guest" href="#">here</a> to continue as guest</p>
+            </article>
+         </div>
+      </dialog>
+   </body>
+</html>
