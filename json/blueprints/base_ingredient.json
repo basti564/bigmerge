@@ -1,1 +1,4 @@
-{"id":"base_ingredient","components":{"sprite":{"alias":""},"clickable":{},"ingredient":{}}}
+{
+  "id": "base_ingredient",
+  "components": { "sprite": { "alias": "" }, "clickable": {}, "ingredient": {} }
+}

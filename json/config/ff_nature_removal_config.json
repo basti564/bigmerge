@@ -1,1 +1,6 @@
-{"FREE":{"to":30},"RV":{"to":300},"BUY":{"to":999999},"FORMULA":{"key":"gems","amount":10,"per":7200}}
+{
+  "FREE": { "to": 30 },
+  "RV": { "to": 300 },
+  "BUY": { "to": 999999 },
+  "FORMULA": { "key": "gems", "amount": 10, "per": 7200 }
+}

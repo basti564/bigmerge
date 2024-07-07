@@ -1,1 +1,11 @@
-{"id":"base_mergable","components":{"sprite":{"alias":""},"dropable":{},"clickable":{},"movable":{},"displaceable":{},"shovelable":{}}}
+{
+  "id": "base_mergable",
+  "components": {
+    "sprite": { "alias": "" },
+    "dropable": {},
+    "clickable": {},
+    "movable": {},
+    "displaceable": {},
+    "shovelable": {}
+  }
+}

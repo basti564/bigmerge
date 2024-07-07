@@ -1,1 +1,8 @@
-{"id":"base_nature_object","components":{"sprite":{"alias":""},"clickable":{},"mapSource":{"type":"none"}}}
+{
+  "id": "base_nature_object",
+  "components": {
+    "sprite": { "alias": "" },
+    "clickable": {},
+    "mapSource": { "type": "none" }
+  }
+}

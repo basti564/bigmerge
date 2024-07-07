@@ -1,1 +1,7 @@
-{"ID":"recipe_truffleballs","image":{"alias":"icon_recipes_truffleballs"},"duration":2400,"ingredients":[{"key":"truffle","amount":8}],"reward":["coin_5","coin_5"]}
+{
+  "ID": "recipe_truffleballs",
+  "image": { "alias": "icon_recipes_truffleballs" },
+  "duration": 2400,
+  "ingredients": [{ "key": "truffle", "amount": 8 }],
+  "reward": ["coin_5", "coin_5"]
+}

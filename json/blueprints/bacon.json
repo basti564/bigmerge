@@ -1,1 +1,8 @@
-{"id":"bacon","extends":"base_ingredient","components":{"sprite":{"alias":"ingredient_bacon"},"collectable":{"reward":[{"key":"bacon","amount":1}]}}}
+{
+  "id": "bacon",
+  "extends": "base_ingredient",
+  "components": {
+    "sprite": { "alias": "ingredient_bacon" },
+    "collectable": { "reward": [{ "key": "bacon", "amount": 1 }] }
+  }
+}

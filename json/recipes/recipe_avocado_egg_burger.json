@@ -1,1 +1,11 @@
-{"ID":"recipe_avocado_egg_burger","image":{"alias":"icon_recipes_avocadoeggburger"},"duration":2400,"ingredients":[{"key":"avocado","amount":11},{"key":"egg","amount":7},{"key":"wheat","amount":7}],"reward":["coin_6"]}
+{
+  "ID": "recipe_avocado_egg_burger",
+  "image": { "alias": "icon_recipes_avocadoeggburger" },
+  "duration": 2400,
+  "ingredients": [
+    { "key": "avocado", "amount": 11 },
+    { "key": "egg", "amount": 7 },
+    { "key": "wheat", "amount": 7 }
+  ],
+  "reward": ["coin_6"]
+}

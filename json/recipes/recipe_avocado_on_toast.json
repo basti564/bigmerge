@@ -1,1 +1,10 @@
-{"ID":"recipe_avocado_on_toast","image":{"alias":"icon_recipes_avocadoontoast"},"duration":1200,"ingredients":[{"key":"avocado","amount":7},{"key":"wheat","amount":5}],"reward":["coin_5"]}
+{
+  "ID": "recipe_avocado_on_toast",
+  "image": { "alias": "icon_recipes_avocadoontoast" },
+  "duration": 1200,
+  "ingredients": [
+    { "key": "avocado", "amount": 7 },
+    { "key": "wheat", "amount": 5 }
+  ],
+  "reward": ["coin_5"]
+}

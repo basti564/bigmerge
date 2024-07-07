@@ -1,1 +1,5 @@
-{"id":"base_animal","extends":"base_mergable","components":{"animal":{},"sounds":{"reveal":{"alias":""}}}}
+{
+  "id": "base_animal",
+  "extends": "base_mergable",
+  "components": { "animal": {}, "sounds": { "reveal": { "alias": "" } } }
+}

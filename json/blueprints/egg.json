@@ -1,1 +1,8 @@
-{"id":"egg","extends":"base_ingredient","components":{"sprite":{"alias":"ingredient_egg"},"collectable":{"reward":[{"key":"egg","amount":1}]}}}
+{
+  "id": "egg",
+  "extends": "base_ingredient",
+  "components": {
+    "sprite": { "alias": "ingredient_egg" },
+    "collectable": { "reward": [{ "key": "egg", "amount": 1 }] }
+  }
+}

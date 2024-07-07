@@ -1,1 +1,10 @@
-{"ID":"recipe_avocado_wrap","image":{"alias":"icon_recipes_avocadowrap"},"duration":2400,"ingredients":[{"key":"avocado","amount":10},{"key":"corn","amount":5}],"reward":["coin_5","coin_5"]}
+{
+  "ID": "recipe_avocado_wrap",
+  "image": { "alias": "icon_recipes_avocadowrap" },
+  "duration": 2400,
+  "ingredients": [
+    { "key": "avocado", "amount": 10 },
+    { "key": "corn", "amount": 5 }
+  ],
+  "reward": ["coin_5", "coin_5"]
+}
