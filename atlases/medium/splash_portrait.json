@@ -1,0 +1,87 @@
+{
+  "frames": {
+    "bg_loading_portrait": {
+      "frame": {
+        "x": 4,
+        "y": 4,
+        "w": 524,
+        "h": 1134
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 524,
+        "h": 1134
+      },
+      "sourceSize": {
+        "w": 524,
+        "h": 1134
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "logo_fmv_portrait": {
+      "frame": {
+        "x": 4,
+        "y": 1146,
+        "w": 264,
+        "h": 287
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 264,
+        "h": 287
+      },
+      "sourceSize": {
+        "w": 264,
+        "h": 287
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "copy_logos_portrait": {
+      "frame": {
+        "x": 4,
+        "y": 1441,
+        "w": 428,
+        "h": 95
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 428,
+        "h": 95
+      },
+      "sourceSize": {
+        "w": 428,
+        "h": 95
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/odrick/free-tex-packer-core",
+    "version": "0.3.4",
+    "image": "splash_portrait.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 532,
+      "h": 1540
+    },
+    "scale": 0.5538461538461539
+  }
+}
