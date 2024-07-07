@@ -1,0 +1,159 @@
+{
+  "frames": {
+    "popup_eventheader_extraworker": {
+      "frame": {
+        "x": 4,
+        "y": 4,
+        "w": 495,
+        "h": 201
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 495,
+        "h": 201
+      },
+      "sourceSize": {
+        "w": 495,
+        "h": 201
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_eventimage_extraworker_christmas": {
+      "frame": {
+        "x": 507,
+        "y": 4,
+        "w": 490,
+        "h": 302
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 490,
+        "h": 302
+      },
+      "sourceSize": {
+        "w": 490,
+        "h": 302
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_eventimage_extraworker_halloween": {
+      "frame": {
+        "x": 4,
+        "y": 213,
+        "w": 490,
+        "h": 302
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 490,
+        "h": 302
+      },
+      "sourceSize": {
+        "w": 490,
+        "h": 302
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_eventimage_extraworker_start": {
+      "frame": {
+        "x": 1005,
+        "y": 4,
+        "w": 490,
+        "h": 302
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 490,
+        "h": 302
+      },
+      "sourceSize": {
+        "w": 490,
+        "h": 302
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "btn_HUD_event_extraworker_down": {
+      "frame": {
+        "x": 1503,
+        "y": 4,
+        "w": 126,
+        "h": 120
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 126,
+        "h": 120
+      },
+      "sourceSize": {
+        "w": 126,
+        "h": 120
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "btn_HUD_event_extraworker_idle": {
+      "frame": {
+        "x": 1637,
+        "y": 4,
+        "w": 126,
+        "h": 120
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 126,
+        "h": 120
+      },
+      "sourceSize": {
+        "w": 126,
+        "h": 120
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/odrick/free-tex-packer-core",
+    "version": "0.3.4",
+    "image": "events_chopchop.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1767,
+      "h": 519
+    },
+    "scale": 0.5
+  }
+}

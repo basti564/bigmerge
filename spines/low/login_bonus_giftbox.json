@@ -1,0 +1,639 @@
+{
+  "frames": {
+    "obj_crate_glow": {
+      "frame": {
+        "x": 4,
+        "y": 4,
+        "w": 130,
+        "h": 65
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 130,
+        "h": 65
+      },
+      "sourceSize": {
+        "w": 130,
+        "h": 65
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "gift_ongrid_shine01": {
+      "frame": {
+        "x": 142,
+        "y": 4,
+        "w": 99,
+        "h": 102
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 99,
+        "h": 102
+      },
+      "sourceSize": {
+        "w": 99,
+        "h": 102
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "gift_ongrid_shine02": {
+      "frame": {
+        "x": 4,
+        "y": 77,
+        "w": 99,
+        "h": 102
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 99,
+        "h": 102
+      },
+      "sourceSize": {
+        "w": 99,
+        "h": 102
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "gift_ongrid_shine03": {
+      "frame": {
+        "x": 249,
+        "y": 4,
+        "w": 99,
+        "h": 102
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 99,
+        "h": 102
+      },
+      "sourceSize": {
+        "w": 99,
+        "h": 102
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "gift_ongrid_shine04": {
+      "frame": {
+        "x": 356,
+        "y": 4,
+        "w": 99,
+        "h": 102
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 99,
+        "h": 102
+      },
+      "sourceSize": {
+        "w": 99,
+        "h": 102
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "gift_ongrid_shine05": {
+      "frame": {
+        "x": 463,
+        "y": 4,
+        "w": 99,
+        "h": 102
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 99,
+        "h": 102
+      },
+      "sourceSize": {
+        "w": 99,
+        "h": 102
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "gift_ongrid_shine06": {
+      "frame": {
+        "x": 570,
+        "y": 4,
+        "w": 99,
+        "h": 102
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 99,
+        "h": 102
+      },
+      "sourceSize": {
+        "w": 99,
+        "h": 102
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "gift_ongrid_shine07": {
+      "frame": {
+        "x": 677,
+        "y": 4,
+        "w": 99,
+        "h": 102
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 99,
+        "h": 102
+      },
+      "sourceSize": {
+        "w": 99,
+        "h": 102
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "gift_ongrid_shine08": {
+      "frame": {
+        "x": 784,
+        "y": 4,
+        "w": 99,
+        "h": 102
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 99,
+        "h": 102
+      },
+      "sourceSize": {
+        "w": 99,
+        "h": 102
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "gift_ongrid_shine09": {
+      "frame": {
+        "x": 891,
+        "y": 4,
+        "w": 99,
+        "h": 102
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 99,
+        "h": 102
+      },
+      "sourceSize": {
+        "w": 99,
+        "h": 102
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "gift_ongrid_glow": {
+      "frame": {
+        "x": 998,
+        "y": 4,
+        "w": 97,
+        "h": 108
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 97,
+        "h": 108
+      },
+      "sourceSize": {
+        "w": 97,
+        "h": 108
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_gift_by": {
+      "frame": {
+        "x": 111,
+        "y": 114,
+        "w": 84,
+        "h": 97
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 84,
+        "h": 97
+      },
+      "sourceSize": {
+        "w": 84,
+        "h": 97
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "gift_ongrid_lid_by": {
+      "frame": {
+        "x": 4,
+        "y": 187,
+        "w": 84,
+        "h": 59
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 84,
+        "h": 59
+      },
+      "sourceSize": {
+        "w": 84,
+        "h": 59
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "gift_ongrid_lid_py": {
+      "frame": {
+        "x": 203,
+        "y": 114,
+        "w": 84,
+        "h": 59
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 84,
+        "h": 59
+      },
+      "sourceSize": {
+        "w": 84,
+        "h": 59
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "gift_ongrid_lid_ry": {
+      "frame": {
+        "x": 295,
+        "y": 114,
+        "w": 84,
+        "h": 59
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 84,
+        "h": 59
+      },
+      "sourceSize": {
+        "w": 84,
+        "h": 59
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "gift_ongrid_lid_yo": {
+      "frame": {
+        "x": 387,
+        "y": 114,
+        "w": 84,
+        "h": 59
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 84,
+        "h": 59
+      },
+      "sourceSize": {
+        "w": 84,
+        "h": 59
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "gift_ongrid_box_by": {
+      "frame": {
+        "x": 479,
+        "y": 114,
+        "w": 76,
+        "h": 71
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 76,
+        "h": 71
+      },
+      "sourceSize": {
+        "w": 76,
+        "h": 71
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "gift_ongrid_box_py": {
+      "frame": {
+        "x": 203,
+        "y": 181,
+        "w": 76,
+        "h": 71
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 76,
+        "h": 71
+      },
+      "sourceSize": {
+        "w": 76,
+        "h": 71
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "gift_ongrid_box_ry": {
+      "frame": {
+        "x": 96,
+        "y": 219,
+        "w": 76,
+        "h": 71
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 76,
+        "h": 71
+      },
+      "sourceSize": {
+        "w": 76,
+        "h": 71
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "gift_ongrid_box_yo": {
+      "frame": {
+        "x": 4,
+        "y": 254,
+        "w": 76,
+        "h": 71
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 76,
+        "h": 71
+      },
+      "sourceSize": {
+        "w": 76,
+        "h": 71
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "gift_ongrid_shadow": {
+      "frame": {
+        "x": 287,
+        "y": 181,
+        "w": 71,
+        "h": 37
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 71,
+        "h": 37
+      },
+      "sourceSize": {
+        "w": 71,
+        "h": 37
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "gift_ongrid_bow_py": {
+      "frame": {
+        "x": 366,
+        "y": 181,
+        "w": 65,
+        "h": 42
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 42
+      },
+      "sourceSize": {
+        "w": 65,
+        "h": 42
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "gift_ongrid_bow_yo": {
+      "frame": {
+        "x": 287,
+        "y": 226,
+        "w": 65,
+        "h": 42
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 42
+      },
+      "sourceSize": {
+        "w": 65,
+        "h": 42
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "gift_ongrid_sparcle": {
+      "frame": {
+        "x": 439,
+        "y": 181,
+        "w": 24,
+        "h": 25
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 25
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 25
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "gift_ongrid_bowshadow_py": {
+      "frame": {
+        "x": 180,
+        "y": 260,
+        "w": 61,
+        "h": 18
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 61,
+        "h": 18
+      },
+      "sourceSize": {
+        "w": 61,
+        "h": 18
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "gift_ongrid_bowshadow_yo": {
+      "frame": {
+        "x": 180,
+        "y": 260,
+        "w": 61,
+        "h": 18
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 61,
+        "h": 18
+      },
+      "sourceSize": {
+        "w": 61,
+        "h": 18
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/odrick/free-tex-packer-core",
+    "version": "0.3.4",
+    "image": "login_bonus_giftbox.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1099,
+      "h": 329
+    },
+    "scale": 0.5
+  }
+}

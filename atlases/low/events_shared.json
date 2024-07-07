@@ -1,0 +1,351 @@
+{
+  "frames": {
+    "popup_background_event_9slice_christmas": {
+      "frame": {
+        "x": 4,
+        "y": 4,
+        "w": 544,
+        "h": 590
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 544,
+        "h": 590
+      },
+      "sourceSize": {
+        "w": 544,
+        "h": 590
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "UI_progressbar_events_goal": {
+      "frame": {
+        "x": 4,
+        "y": 602,
+        "w": 77,
+        "h": 72
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 77,
+        "h": 72
+      },
+      "sourceSize": {
+        "w": 77,
+        "h": 72
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "UI_progressbar_events_goal_sepia": {
+      "frame": {
+        "x": 4,
+        "y": 682,
+        "w": 77,
+        "h": 72
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 77,
+        "h": 72
+      },
+      "sourceSize": {
+        "w": 77,
+        "h": 72
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "btn_event_green_christmas_down": {
+      "frame": {
+        "x": 4,
+        "y": 762,
+        "w": 78,
+        "h": 71
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 78,
+        "h": 71
+      },
+      "sourceSize": {
+        "w": 78,
+        "h": 71
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "btn_event_green_christmas_idle": {
+      "frame": {
+        "x": 89,
+        "y": 602,
+        "w": 78,
+        "h": 71
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 78,
+        "h": 71
+      },
+      "sourceSize": {
+        "w": 78,
+        "h": 71
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "btn_event_grey_inactive": {
+      "frame": {
+        "x": 89,
+        "y": 681,
+        "w": 78,
+        "h": 71
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 78,
+        "h": 71
+      },
+      "sourceSize": {
+        "w": 78,
+        "h": 71
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "btn_event_red_down": {
+      "frame": {
+        "x": 4,
+        "y": 841,
+        "w": 78,
+        "h": 71
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 78,
+        "h": 71
+      },
+      "sourceSize": {
+        "w": 78,
+        "h": 71
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "btn_event_red_idle": {
+      "frame": {
+        "x": 4,
+        "y": 920,
+        "w": 78,
+        "h": 71
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 78,
+        "h": 71
+      },
+      "sourceSize": {
+        "w": 78,
+        "h": 71
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "UI_progressbar_events_background": {
+      "frame": {
+        "x": 4,
+        "y": 999,
+        "w": 55,
+        "h": 57
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 55,
+        "h": 57
+      },
+      "sourceSize": {
+        "w": 55,
+        "h": 57
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "UI_progressbar_events_counter": {
+      "frame": {
+        "x": 4,
+        "y": 1064,
+        "w": 63,
+        "h": 43
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 63,
+        "h": 43
+      },
+      "sourceSize": {
+        "w": 63,
+        "h": 43
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_event_timer": {
+      "frame": {
+        "x": 67,
+        "y": 999,
+        "w": 36,
+        "h": 39
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 36,
+        "h": 39
+      },
+      "sourceSize": {
+        "w": 36,
+        "h": 39
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "UI_progressbar_events_fill": {
+      "frame": {
+        "x": 90,
+        "y": 760,
+        "w": 36,
+        "h": 34
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 36,
+        "h": 34
+      },
+      "sourceSize": {
+        "w": 36,
+        "h": 34
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bg_popup_event_timer": {
+      "frame": {
+        "x": 90,
+        "y": 802,
+        "w": 38,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 38,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 38,
+        "h": 33
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "btn_event_whitepill_9slice": {
+      "frame": {
+        "x": 134,
+        "y": 760,
+        "w": 32,
+        "h": 30
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 30
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 30
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/odrick/free-tex-packer-core",
+    "version": "0.3.4",
+    "image": "events_shared.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 552,
+      "h": 1111
+    },
+    "scale": 0.5
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "frames": {
+    "obj_chest_GC_glow_open": {
+      "frame": {
+        "x": 4,
+        "y": 4,
+        "w": 102,
+        "h": 125
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 102,
+        "h": 125
+      },
+      "sourceSize": {
+        "w": 102,
+        "h": 125
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "obj_chest_GC_glow": {
+      "frame": {
+        "x": 4,
+        "y": 137,
+        "w": 100,
+        "h": 94
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 100,
+        "h": 94
+      },
+      "sourceSize": {
+        "w": 100,
+        "h": 94
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "obj_chest_GC": {
+      "frame": {
+        "x": 4,
+        "y": 239,
+        "w": 93,
+        "h": 75
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 93,
+        "h": 75
+      },
+      "sourceSize": {
+        "w": 93,
+        "h": 75
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "obj_chest_GC_lid_open": {
+      "frame": {
+        "x": 4,
+        "y": 322,
+        "w": 80,
+        "h": 69
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 80,
+        "h": 69
+      },
+      "sourceSize": {
+        "w": 80,
+        "h": 69
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "obj_chest_GC_lid_closed": {
+      "frame": {
+        "x": 4,
+        "y": 399,
+        "w": 90,
+        "h": 59
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 90,
+        "h": 59
+      },
+      "sourceSize": {
+        "w": 90,
+        "h": 59
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "obj_chest_GC_open_glow": {
+      "frame": {
+        "x": 92,
+        "y": 322,
+        "w": 112,
+        "h": 55
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 112,
+        "h": 55
+      },
+      "sourceSize": {
+        "w": 112,
+        "h": 55
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "obj_chest_GC_shadow": {
+      "frame": {
+        "x": 105,
+        "y": 239,
+        "w": 90,
+        "h": 44
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 90,
+        "h": 44
+      },
+      "sourceSize": {
+        "w": 90,
+        "h": 44
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "obj_chest_GC_lid_ornament": {
+      "frame": {
+        "x": 203,
+        "y": 239,
+        "w": 35,
+        "h": 37
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 35,
+        "h": 37
+      },
+      "sourceSize": {
+        "w": 35,
+        "h": 37
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "obj_chest_GC_lock": {
+      "frame": {
+        "x": 112,
+        "y": 137,
+        "w": 24,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 33
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/odrick/free-tex-packer-core",
+    "version": "0.3.4",
+    "image": "reward_crates_carrot.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 242,
+      "h": 462
+    },
+    "scale": 0.5
+  }
+}

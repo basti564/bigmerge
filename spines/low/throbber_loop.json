@@ -1,0 +1,39 @@
+{
+  "frames": {
+    "s_throbber_dot": {
+      "frame": {
+        "x": 4,
+        "y": 4,
+        "w": 10,
+        "h": 10
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 10,
+        "h": 10
+      },
+      "sourceSize": {
+        "w": 10,
+        "h": 10
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/odrick/free-tex-packer-core",
+    "version": "0.3.4",
+    "image": "throbber_loop.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 18,
+      "h": 18
+    },
+    "scale": 0.5
+  }
+}

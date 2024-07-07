@@ -1,0 +1,1815 @@
+{
+  "frames": {
+    "icon_levelup_rewards_tomatosaladonstick": {
+      "frame": {
+        "x": 4,
+        "y": 4,
+        "w": 147,
+        "h": 87
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 147,
+        "h": 87
+      },
+      "sourceSize": {
+        "w": 147,
+        "h": 87
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_levelup_rewards_tiramisu": {
+      "frame": {
+        "x": 159,
+        "y": 4,
+        "w": 143,
+        "h": 81
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 81
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 81
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_levelup_rewards_truffleballs": {
+      "frame": {
+        "x": 310,
+        "y": 4,
+        "w": 142,
+        "h": 100
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 142,
+        "h": 100
+      },
+      "sourceSize": {
+        "w": 142,
+        "h": 100
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_levelup_rewards_tomatosoup": {
+      "frame": {
+        "x": 159,
+        "y": 93,
+        "w": 142,
+        "h": 86
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 142,
+        "h": 86
+      },
+      "sourceSize": {
+        "w": 142,
+        "h": 86
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_levelup_rewards_cow": {
+      "frame": {
+        "x": 4,
+        "y": 99,
+        "w": 141,
+        "h": 118
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 141,
+        "h": 118
+      },
+      "sourceSize": {
+        "w": 141,
+        "h": 118
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_levelup_rewards_trufflegrilledcheesesandw": {
+      "frame": {
+        "x": 460,
+        "y": 4,
+        "w": 141,
+        "h": 101
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 141,
+        "h": 101
+      },
+      "sourceSize": {
+        "w": 141,
+        "h": 101
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_levelup_rewards_tofu": {
+      "frame": {
+        "x": 309,
+        "y": 112,
+        "w": 141,
+        "h": 98
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 141,
+        "h": 98
+      },
+      "sourceSize": {
+        "w": 141,
+        "h": 98
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_levelup_rewards_trufflepastaplate": {
+      "frame": {
+        "x": 309,
+        "y": 218,
+        "w": 141,
+        "h": 74
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 141,
+        "h": 74
+      },
+      "sourceSize": {
+        "w": 141,
+        "h": 74
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_levelup_rewards_carrotcrate": {
+      "frame": {
+        "x": 153,
+        "y": 187,
+        "w": 135,
+        "h": 102
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 135,
+        "h": 102
+      },
+      "sourceSize": {
+        "w": 135,
+        "h": 102
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_levelup_rewards_eggs": {
+      "frame": {
+        "x": 4,
+        "y": 225,
+        "w": 130,
+        "h": 117
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 130,
+        "h": 117
+      },
+      "sourceSize": {
+        "w": 130,
+        "h": 117
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_levelup_rewards_grilledbacon": {
+      "frame": {
+        "x": 142,
+        "y": 297,
+        "w": 130,
+        "h": 108
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 130,
+        "h": 108
+      },
+      "sourceSize": {
+        "w": 130,
+        "h": 108
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_levelup_rewards_grilledcorn": {
+      "frame": {
+        "x": 4,
+        "y": 350,
+        "w": 128,
+        "h": 83
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 83
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 83
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_levelup_rewards_butter": {
+      "frame": {
+        "x": 609,
+        "y": 4,
+        "w": 127,
+        "h": 107
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 127,
+        "h": 107
+      },
+      "sourceSize": {
+        "w": 127,
+        "h": 107
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_levelup_rewards_jacket": {
+      "frame": {
+        "x": 458,
+        "y": 113,
+        "w": 127,
+        "h": 105
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 127,
+        "h": 105
+      },
+      "sourceSize": {
+        "w": 127,
+        "h": 105
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_levelup_rewards_flour": {
+      "frame": {
+        "x": 458,
+        "y": 226,
+        "w": 127,
+        "h": 104
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 127,
+        "h": 104
+      },
+      "sourceSize": {
+        "w": 127,
+        "h": 104
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_levelup_rewards_tomatofilled": {
+      "frame": {
+        "x": 458,
+        "y": 338,
+        "w": 126,
+        "h": 96
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 126,
+        "h": 96
+      },
+      "sourceSize": {
+        "w": 126,
+        "h": 96
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_levelup_rewards_carrotbread": {
+      "frame": {
+        "x": 280,
+        "y": 300,
+        "w": 125,
+        "h": 102
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 125,
+        "h": 102
+      },
+      "sourceSize": {
+        "w": 125,
+        "h": 102
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_levelup_rewards_rawbaconbundled": {
+      "frame": {
+        "x": 280,
+        "y": 410,
+        "w": 125,
+        "h": 90
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 125,
+        "h": 90
+      },
+      "sourceSize": {
+        "w": 125,
+        "h": 90
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_levelup_rewards_omelet": {
+      "frame": {
+        "x": 140,
+        "y": 413,
+        "w": 125,
+        "h": 76
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 125,
+        "h": 76
+      },
+      "sourceSize": {
+        "w": 125,
+        "h": 76
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_levelup_rewards_tofuburger": {
+      "frame": {
+        "x": 4,
+        "y": 441,
+        "w": 123,
+        "h": 101
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 123,
+        "h": 101
+      },
+      "sourceSize": {
+        "w": 123,
+        "h": 101
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_levelup_rewards_pig": {
+      "frame": {
+        "x": 135,
+        "y": 497,
+        "w": 122,
+        "h": 106
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 106
+      },
+      "sourceSize": {
+        "w": 122,
+        "h": 106
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_levelup_rewards_woolunprocessed": {
+      "frame": {
+        "x": 4,
+        "y": 550,
+        "w": 122,
+        "h": 82
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 82
+      },
+      "sourceSize": {
+        "w": 122,
+        "h": 82
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_levelup_rewards_sugarcane": {
+      "frame": {
+        "x": 744,
+        "y": 4,
+        "w": 121,
+        "h": 118
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 121,
+        "h": 118
+      },
+      "sourceSize": {
+        "w": 121,
+        "h": 118
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_levelup_rewards_tomatoburger": {
+      "frame": {
+        "x": 593,
+        "y": 119,
+        "w": 119,
+        "h": 120
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 119,
+        "h": 120
+      },
+      "sourceSize": {
+        "w": 119,
+        "h": 120
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_levelup_rewards_crates": {
+      "frame": {
+        "x": 593,
+        "y": 247,
+        "w": 119,
+        "h": 119
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 119,
+        "h": 119
+      },
+      "sourceSize": {
+        "w": 119,
+        "h": 119
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_levelup_rewards_sunflower": {
+      "frame": {
+        "x": 593,
+        "y": 374,
+        "w": 119,
+        "h": 101
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 119,
+        "h": 101
+      },
+      "sourceSize": {
+        "w": 119,
+        "h": 101
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_levelup_rewards_rawbacon": {
+      "frame": {
+        "x": 593,
+        "y": 483,
+        "w": 119,
+        "h": 98
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 119,
+        "h": 98
+      },
+      "sourceSize": {
+        "w": 119,
+        "h": 98
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_levelup_rewards_trousers": {
+      "frame": {
+        "x": 593,
+        "y": 589,
+        "w": 119,
+        "h": 89
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 119,
+        "h": 89
+      },
+      "sourceSize": {
+        "w": 119,
+        "h": 89
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_levelup_rewards_goatyoghurt": {
+      "frame": {
+        "x": 593,
+        "y": 686,
+        "w": 117,
+        "h": 106
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 117,
+        "h": 106
+      },
+      "sourceSize": {
+        "w": 117,
+        "h": 106
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_levelup_rewards_wool": {
+      "frame": {
+        "x": 413,
+        "y": 442,
+        "w": 114,
+        "h": 99
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 114,
+        "h": 99
+      },
+      "sourceSize": {
+        "w": 114,
+        "h": 99
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_levelup_lock_unlocked": {
+      "frame": {
+        "x": 535,
+        "y": 442,
+        "w": 45,
+        "h": 59
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 45,
+        "h": 59
+      },
+      "sourceSize": {
+        "w": 45,
+        "h": 59
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_levelup_lock_locked": {
+      "frame": {
+        "x": 535,
+        "y": 509,
+        "w": 45,
+        "h": 53
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 45,
+        "h": 53
+      },
+      "sourceSize": {
+        "w": 45,
+        "h": 53
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_levelup_rewards_soybean": {
+      "frame": {
+        "x": 265,
+        "y": 508,
+        "w": 113,
+        "h": 120
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 113,
+        "h": 120
+      },
+      "sourceSize": {
+        "w": 113,
+        "h": 120
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_levelup_rewards_grilledsandwitch": {
+      "frame": {
+        "x": 134,
+        "y": 611,
+        "w": 113,
+        "h": 87
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 113,
+        "h": 87
+      },
+      "sourceSize": {
+        "w": 113,
+        "h": 87
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_levelup_rewards_gems": {
+      "frame": {
+        "x": 4,
+        "y": 640,
+        "w": 112,
+        "h": 102
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 112,
+        "h": 102
+      },
+      "sourceSize": {
+        "w": 112,
+        "h": 102
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_levelup_rewards_truffle": {
+      "frame": {
+        "x": 386,
+        "y": 549,
+        "w": 112,
+        "h": 87
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 112,
+        "h": 87
+      },
+      "sourceSize": {
+        "w": 112,
+        "h": 87
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_levelup_rewards_coffeebeans": {
+      "frame": {
+        "x": 506,
+        "y": 570,
+        "w": 77,
+        "h": 54
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 77,
+        "h": 54
+      },
+      "sourceSize": {
+        "w": 77,
+        "h": 54
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_levelup_rewards_milk": {
+      "frame": {
+        "x": 506,
+        "y": 632,
+        "w": 73,
+        "h": 118
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 73,
+        "h": 118
+      },
+      "sourceSize": {
+        "w": 73,
+        "h": 118
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_levelup_rewards_wheat": {
+      "frame": {
+        "x": 255,
+        "y": 636,
+        "w": 111,
+        "h": 106
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 111,
+        "h": 106
+      },
+      "sourceSize": {
+        "w": 111,
+        "h": 106
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_levelup_rewards_energy": {
+      "frame": {
+        "x": 255,
+        "y": 750,
+        "w": 111,
+        "h": 99
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 111,
+        "h": 99
+      },
+      "sourceSize": {
+        "w": 111,
+        "h": 99
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_levelup_rewards_popcorn": {
+      "frame": {
+        "x": 124,
+        "y": 706,
+        "w": 108,
+        "h": 117
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 108,
+        "h": 117
+      },
+      "sourceSize": {
+        "w": 108,
+        "h": 117
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_levelup_rewards_cheese": {
+      "frame": {
+        "x": 4,
+        "y": 750,
+        "w": 108,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 108,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 108,
+        "h": 93
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_levelup_rewards_cheesepopcorn": {
+      "frame": {
+        "x": 374,
+        "y": 644,
+        "w": 107,
+        "h": 116
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 107,
+        "h": 116
+      },
+      "sourceSize": {
+        "w": 107,
+        "h": 116
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_levelup_rewards_pancakes": {
+      "frame": {
+        "x": 489,
+        "y": 758,
+        "w": 95,
+        "h": 98
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 95,
+        "h": 98
+      },
+      "sourceSize": {
+        "w": 95,
+        "h": 98
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_levelup_rewards_corn": {
+      "frame": {
+        "x": 374,
+        "y": 768,
+        "w": 106,
+        "h": 119
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 106,
+        "h": 119
+      },
+      "sourceSize": {
+        "w": 106,
+        "h": 119
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_levelup_rewards_levelup": {
+      "frame": {
+        "x": 488,
+        "y": 864,
+        "w": 97,
+        "h": 75
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 97,
+        "h": 75
+      },
+      "sourceSize": {
+        "w": 97,
+        "h": 75
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_levelup_rewards_avocado": {
+      "frame": {
+        "x": 120,
+        "y": 831,
+        "w": 106,
+        "h": 118
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 106,
+        "h": 118
+      },
+      "sourceSize": {
+        "w": 106,
+        "h": 118
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_levelup_rewards_pillow_deer": {
+      "frame": {
+        "x": 4,
+        "y": 895,
+        "w": 106,
+        "h": 86
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 106,
+        "h": 86
+      },
+      "sourceSize": {
+        "w": 106,
+        "h": 86
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_levelup_rewards_tomato": {
+      "frame": {
+        "x": 234,
+        "y": 857,
+        "w": 105,
+        "h": 97
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 105,
+        "h": 97
+      },
+      "sourceSize": {
+        "w": 105,
+        "h": 97
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_levelup_rewards_socks": {
+      "frame": {
+        "x": 118,
+        "y": 957,
+        "w": 104,
+        "h": 111
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 104,
+        "h": 111
+      },
+      "sourceSize": {
+        "w": 104,
+        "h": 111
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_levelup_rewards_bread": {
+      "frame": {
+        "x": 4,
+        "y": 989,
+        "w": 104,
+        "h": 97
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 104,
+        "h": 97
+      },
+      "sourceSize": {
+        "w": 104,
+        "h": 97
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_levelup_rewards_coins": {
+      "frame": {
+        "x": 347,
+        "y": 895,
+        "w": 104,
+        "h": 86
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 104,
+        "h": 86
+      },
+      "sourceSize": {
+        "w": 104,
+        "h": 86
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_levelup_rewards_sheep": {
+      "frame": {
+        "x": 230,
+        "y": 962,
+        "w": 102,
+        "h": 122
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 102,
+        "h": 122
+      },
+      "sourceSize": {
+        "w": 102,
+        "h": 122
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_levelup_rewards_sugar": {
+      "frame": {
+        "x": 116,
+        "y": 1076,
+        "w": 101,
+        "h": 116
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 101,
+        "h": 116
+      },
+      "sourceSize": {
+        "w": 101,
+        "h": 116
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_levelup_rewards_goatcheese": {
+      "frame": {
+        "x": 4,
+        "y": 1094,
+        "w": 99,
+        "h": 79
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 99,
+        "h": 79
+      },
+      "sourceSize": {
+        "w": 99,
+        "h": 79
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_levelup_rewards_goat": {
+      "frame": {
+        "x": 4,
+        "y": 1181,
+        "w": 98,
+        "h": 120
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 98,
+        "h": 120
+      },
+      "sourceSize": {
+        "w": 98,
+        "h": 120
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_levelup_rewards_carrot": {
+      "frame": {
+        "x": 4,
+        "y": 1309,
+        "w": 86,
+        "h": 121
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 86,
+        "h": 121
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 121
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_levelup_rewards_chicken": {
+      "frame": {
+        "x": 4,
+        "y": 1438,
+        "w": 69,
+        "h": 120
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 69,
+        "h": 120
+      },
+      "sourceSize": {
+        "w": 69,
+        "h": 120
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_levelup_rewards_goatsmilk": {
+      "frame": {
+        "x": 4,
+        "y": 1566,
+        "w": 72,
+        "h": 118
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 72,
+        "h": 118
+      },
+      "sourceSize": {
+        "w": 72,
+        "h": 118
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_levelup_rewards_soysauce": {
+      "frame": {
+        "x": 81,
+        "y": 1438,
+        "w": 98,
+        "h": 116
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 98,
+        "h": 116
+      },
+      "sourceSize": {
+        "w": 98,
+        "h": 116
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_levelup_rewards_sunfloweroil": {
+      "frame": {
+        "x": 98,
+        "y": 1309,
+        "w": 92,
+        "h": 116
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 92,
+        "h": 116
+      },
+      "sourceSize": {
+        "w": 92,
+        "h": 116
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_levelup_rewards_muffin": {
+      "frame": {
+        "x": 187,
+        "y": 1200,
+        "w": 90,
+        "h": 97
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 90,
+        "h": 97
+      },
+      "sourceSize": {
+        "w": 90,
+        "h": 97
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_levelup_rewards_egg": {
+      "frame": {
+        "x": 110,
+        "y": 1200,
+        "w": 69,
+        "h": 82
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 69,
+        "h": 82
+      },
+      "sourceSize": {
+        "w": 69,
+        "h": 82
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_levelup_rewards_cornbundled": {
+      "frame": {
+        "x": 225,
+        "y": 1092,
+        "w": 89,
+        "h": 97
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 89,
+        "h": 97
+      },
+      "sourceSize": {
+        "w": 89,
+        "h": 97
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_levelup_rewards_icecreamcone": {
+      "frame": {
+        "x": 4,
+        "y": 1692,
+        "w": 86,
+        "h": 111
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 86,
+        "h": 111
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 111
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_levelup_rewards_milkchurn": {
+      "frame": {
+        "x": 84,
+        "y": 1562,
+        "w": 80,
+        "h": 103
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 80,
+        "h": 103
+      },
+      "sourceSize": {
+        "w": 80,
+        "h": 103
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_levelup_rewards_coffeebag": {
+      "frame": {
+        "x": 4,
+        "y": 1811,
+        "w": 73,
+        "h": 96
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 73,
+        "h": 96
+      },
+      "sourceSize": {
+        "w": 73,
+        "h": 96
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_levelup_rewards_soybeansbundled": {
+      "frame": {
+        "x": 4,
+        "y": 1915,
+        "w": 84,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 84,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 84,
+        "h": 93
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_levelup_rewards_carrotcake": {
+      "frame": {
+        "x": 85,
+        "y": 1811,
+        "w": 91,
+        "h": 92
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 91,
+        "h": 92
+      },
+      "sourceSize": {
+        "w": 91,
+        "h": 92
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_levelup_rewards_goatsmilkbucket": {
+      "frame": {
+        "x": 98,
+        "y": 1673,
+        "w": 82,
+        "h": 89
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 82,
+        "h": 89
+      },
+      "sourceSize": {
+        "w": 82,
+        "h": 89
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_levelup_rewards_fur": {
+      "frame": {
+        "x": 184,
+        "y": 1562,
+        "w": 82,
+        "h": 82
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 82,
+        "h": 82
+      },
+      "sourceSize": {
+        "w": 82,
+        "h": 82
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_levelup_rewards_purse": {
+      "frame": {
+        "x": 274,
+        "y": 1562,
+        "w": 93,
+        "h": 78
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 93,
+        "h": 78
+      },
+      "sourceSize": {
+        "w": 93,
+        "h": 78
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_levelup_rewards_cappuccino": {
+      "frame": {
+        "x": 187,
+        "y": 1433,
+        "w": 91,
+        "h": 77
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 91,
+        "h": 77
+      },
+      "sourceSize": {
+        "w": 91,
+        "h": 77
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_levelup_rewards_deer": {
+      "frame": {
+        "x": 198,
+        "y": 1305,
+        "w": 61,
+        "h": 70
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 61,
+        "h": 70
+      },
+      "sourceSize": {
+        "w": 61,
+        "h": 70
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_levelup_rewards_espresso": {
+      "frame": {
+        "x": 267,
+        "y": 1305,
+        "w": 70,
+        "h": 68
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 70,
+        "h": 68
+      },
+      "sourceSize": {
+        "w": 70,
+        "h": 68
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/odrick/free-tex-packer-core",
+    "version": "0.3.4",
+    "image": "levelUpRewards.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 869,
+      "h": 2012
+    },
+    "scale": 0.5
+  }
+}

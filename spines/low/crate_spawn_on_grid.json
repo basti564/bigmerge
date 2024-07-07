@@ -1,0 +1,159 @@
+{
+  "frames": {
+    "crate_move": {
+      "frame": {
+        "x": 4,
+        "y": 4,
+        "w": 97,
+        "h": 274
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 97,
+        "h": 274
+      },
+      "sourceSize": {
+        "w": 97,
+        "h": 274
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "spawn_glow": {
+      "frame": {
+        "x": 4,
+        "y": 286,
+        "w": 87,
+        "h": 87
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 87,
+        "h": 87
+      },
+      "sourceSize": {
+        "w": 87,
+        "h": 87
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "crate_shadow": {
+      "frame": {
+        "x": 4,
+        "y": 381,
+        "w": 97,
+        "h": 50
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 97,
+        "h": 50
+      },
+      "sourceSize": {
+        "w": 97,
+        "h": 50
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "dust_04": {
+      "frame": {
+        "x": 99,
+        "y": 286,
+        "w": 67,
+        "h": 50
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 67,
+        "h": 50
+      },
+      "sourceSize": {
+        "w": 67,
+        "h": 50
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "dust_09": {
+      "frame": {
+        "x": 99,
+        "y": 344,
+        "w": 12,
+        "h": 16
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 12,
+        "h": 16
+      },
+      "sourceSize": {
+        "w": 12,
+        "h": 16
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "dust_07": {
+      "frame": {
+        "x": 109,
+        "y": 4,
+        "w": 53,
+        "h": 43
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 53,
+        "h": 43
+      },
+      "sourceSize": {
+        "w": 53,
+        "h": 43
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/odrick/free-tex-packer-core",
+    "version": "0.3.4",
+    "image": "crate_spawn_on_grid.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 170,
+      "h": 435
+    },
+    "scale": 0.5
+  }
+}

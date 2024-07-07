@@ -1,0 +1,327 @@
+{
+  "frames": {
+    "popup_background_event_9slice_halloween": {
+      "frame": {
+        "x": 4,
+        "y": 4,
+        "w": 544,
+        "h": 590
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 544,
+        "h": 590
+      },
+      "sourceSize": {
+        "w": 544,
+        "h": 590
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_popup_goldenpumpkin_explanation": {
+      "frame": {
+        "x": 556,
+        "y": 4,
+        "w": 502,
+        "h": 343
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 502,
+        "h": 343
+      },
+      "sourceSize": {
+        "w": 502,
+        "h": 343
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "popup_eventheader_goldenpumpkin": {
+      "frame": {
+        "x": 1066,
+        "y": 4,
+        "w": 495,
+        "h": 271
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 495,
+        "h": 271
+      },
+      "sourceSize": {
+        "w": 495,
+        "h": 271
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "btn_HUD_event_goldenpumpkin_down": {
+      "frame": {
+        "x": 1569,
+        "y": 4,
+        "w": 97,
+        "h": 89
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 97,
+        "h": 89
+      },
+      "sourceSize": {
+        "w": 97,
+        "h": 89
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "btn_HUD_event_goldenpumpkin_idle": {
+      "frame": {
+        "x": 1674,
+        "y": 4,
+        "w": 97,
+        "h": 89
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 97,
+        "h": 89
+      },
+      "sourceSize": {
+        "w": 97,
+        "h": 89
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "UI_progressbar_events_goal_halloween": {
+      "frame": {
+        "x": 1779,
+        "y": 4,
+        "w": 77,
+        "h": 72
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 77,
+        "h": 72
+      },
+      "sourceSize": {
+        "w": 77,
+        "h": 72
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_progressbar_event_pumpkin": {
+      "frame": {
+        "x": 1864,
+        "y": 4,
+        "w": 64,
+        "h": 60
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 60
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "UI_progressbar_events_counter_halloween": {
+      "frame": {
+        "x": 1936,
+        "y": 4,
+        "w": 63,
+        "h": 43
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 63,
+        "h": 43
+      },
+      "sourceSize": {
+        "w": 63,
+        "h": 43
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_progressbar_goldenpumpkin_lootchest": {
+      "frame": {
+        "x": 1936,
+        "y": 55,
+        "w": 56,
+        "h": 60
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 56,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 56,
+        "h": 60
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_progressbar_goldenpumpkin_key": {
+      "frame": {
+        "x": 2000,
+        "y": 55,
+        "w": 44,
+        "h": 60
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 44,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 44,
+        "h": 60
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "UI_progressbar_events_background_halloween": {
+      "frame": {
+        "x": 1864,
+        "y": 72,
+        "w": 55,
+        "h": 57
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 55,
+        "h": 57
+      },
+      "sourceSize": {
+        "w": 55,
+        "h": 57
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_eventimage_goldenpumpkin": {
+      "frame": {
+        "x": 1066,
+        "y": 283,
+        "w": 490,
+        "h": 265
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 490,
+        "h": 265
+      },
+      "sourceSize": {
+        "w": 490,
+        "h": 265
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_eventimage_halloweenshop": {
+      "frame": {
+        "x": 556,
+        "y": 355,
+        "w": 490,
+        "h": 265
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 490,
+        "h": 265
+      },
+      "sourceSize": {
+        "w": 490,
+        "h": 265
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/odrick/free-tex-packer-core",
+    "version": "0.3.4",
+    "image": "events_goldenpumpkin.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 2048,
+      "h": 624
+    },
+    "scale": 0.5
+  }
+}

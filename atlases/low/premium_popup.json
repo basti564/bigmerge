@@ -1,0 +1,111 @@
+{
+  "frames": {
+    "icon_premiumland_promopic": {
+      "frame": {
+        "x": 4,
+        "y": 4,
+        "w": 496,
+        "h": 233
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 496,
+        "h": 233
+      },
+      "sourceSize": {
+        "w": 496,
+        "h": 233
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_premiumland_header": {
+      "frame": {
+        "x": 508,
+        "y": 4,
+        "w": 319,
+        "h": 62
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 319,
+        "h": 62
+      },
+      "sourceSize": {
+        "w": 319,
+        "h": 62
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_premiumland_specialoffer_rays": {
+      "frame": {
+        "x": 835,
+        "y": 4,
+        "w": 198,
+        "h": 198
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 198,
+        "h": 198
+      },
+      "sourceSize": {
+        "w": 198,
+        "h": 198
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_premiumland_specialoffer": {
+      "frame": {
+        "x": 508,
+        "y": 74,
+        "w": 85,
+        "h": 87
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 85,
+        "h": 87
+      },
+      "sourceSize": {
+        "w": 85,
+        "h": 87
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/odrick/free-tex-packer-core",
+    "version": "0.3.4",
+    "image": "premium_popup.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1037,
+      "h": 241
+    },
+    "scale": 0.5
+  }
+}

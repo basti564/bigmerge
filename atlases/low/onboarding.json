@@ -1,0 +1,447 @@
+{
+  "frames": {
+    "icon_popup_upgradecards_explanation": {
+      "frame": {
+        "x": 4,
+        "y": 4,
+        "w": 537,
+        "h": 387
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 537,
+        "h": 387
+      },
+      "sourceSize": {
+        "w": 537,
+        "h": 387
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_popup_chests_and_keys_explanation": {
+      "frame": {
+        "x": 549,
+        "y": 4,
+        "w": 537,
+        "h": 356
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 537,
+        "h": 356
+      },
+      "sourceSize": {
+        "w": 537,
+        "h": 356
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_popup_decoration_explanation": {
+      "frame": {
+        "x": 1094,
+        "y": 4,
+        "w": 537,
+        "h": 356
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 537,
+        "h": 356
+      },
+      "sourceSize": {
+        "w": 537,
+        "h": 356
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "finger_down": {
+      "frame": {
+        "x": 1639,
+        "y": 4,
+        "w": 208,
+        "h": 226
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 208,
+        "h": 226
+      },
+      "sourceSize": {
+        "w": 208,
+        "h": 226
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "hand_onboarding": {
+      "frame": {
+        "x": 1855,
+        "y": 4,
+        "w": 174,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 174,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 174,
+        "h": 150
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_character_npc_2": {
+      "frame": {
+        "x": 1855,
+        "y": 162,
+        "w": 124,
+        "h": 124
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 124,
+        "h": 124
+      },
+      "sourceSize": {
+        "w": 124,
+        "h": 124
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_characters_onboarding01": {
+      "frame": {
+        "x": 1639,
+        "y": 238,
+        "w": 205,
+        "h": 276
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 205,
+        "h": 276
+      },
+      "sourceSize": {
+        "w": 205,
+        "h": 276
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_character_npc_1": {
+      "frame": {
+        "x": 1852,
+        "y": 294,
+        "w": 116,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 116,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 116,
+        "h": 130
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "arrow_handdirection_diagonal": {
+      "frame": {
+        "x": 1852,
+        "y": 432,
+        "w": 108,
+        "h": 57
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 108,
+        "h": 57
+      },
+      "sourceSize": {
+        "w": 108,
+        "h": 57
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "arrow_handdirection_vertical": {
+      "frame": {
+        "x": 1968,
+        "y": 432,
+        "w": 72,
+        "h": 105
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 72,
+        "h": 105
+      },
+      "sourceSize": {
+        "w": 72,
+        "h": 105
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_popup_flowers_explanation": {
+      "frame": {
+        "x": 549,
+        "y": 368,
+        "w": 537,
+        "h": 356
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 537,
+        "h": 356
+      },
+      "sourceSize": {
+        "w": 537,
+        "h": 356
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_popup_regeneration_explanation": {
+      "frame": {
+        "x": 4,
+        "y": 522,
+        "w": 482,
+        "h": 210
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 482,
+        "h": 210
+      },
+      "sourceSize": {
+        "w": 482,
+        "h": 210
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_popup_merge_explanation": {
+      "frame": {
+        "x": 1094,
+        "y": 368,
+        "w": 437,
+        "h": 160
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 437,
+        "h": 160
+      },
+      "sourceSize": {
+        "w": 437,
+        "h": 160
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_characters_onboarding02": {
+      "frame": {
+        "x": 1639,
+        "y": 238,
+        "w": 205,
+        "h": 276
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 205,
+        "h": 276
+      },
+      "sourceSize": {
+        "w": 205,
+        "h": 276
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_characters_onboarding03": {
+      "frame": {
+        "x": 1639,
+        "y": 238,
+        "w": 205,
+        "h": 276
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 205,
+        "h": 276
+      },
+      "sourceSize": {
+        "w": 205,
+        "h": 276
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_characters_onboarding04": {
+      "frame": {
+        "x": 1639,
+        "y": 238,
+        "w": 205,
+        "h": 276
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 205,
+        "h": 276
+      },
+      "sourceSize": {
+        "w": 205,
+        "h": 276
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_characters_onboarding05": {
+      "frame": {
+        "x": 1639,
+        "y": 238,
+        "w": 205,
+        "h": 276
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 205,
+        "h": 276
+      },
+      "sourceSize": {
+        "w": 205,
+        "h": 276
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_characters_onboarding06": {
+      "frame": {
+        "x": 1639,
+        "y": 238,
+        "w": 205,
+        "h": 276
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 205,
+        "h": 276
+      },
+      "sourceSize": {
+        "w": 205,
+        "h": 276
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/odrick/free-tex-packer-core",
+    "version": "0.3.4",
+    "image": "onboarding.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 2044,
+      "h": 736
+    },
+    "scale": 0.5
+  }
+}

@@ -1,0 +1,327 @@
+{
+  "frames": {
+    "fx_glow_white_jb": {
+      "frame": {
+        "x": 4,
+        "y": 4,
+        "w": 233,
+        "h": 113
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 233,
+        "h": 113
+      },
+      "sourceSize": {
+        "w": 233,
+        "h": 113
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "fx_glow_yellow_jb": {
+      "frame": {
+        "x": 245,
+        "y": 4,
+        "w": 168,
+        "h": 111
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 168,
+        "h": 111
+      },
+      "sourceSize": {
+        "w": 168,
+        "h": 111
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "chest_lid_jb": {
+      "frame": {
+        "x": 421,
+        "y": 4,
+        "w": 162,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "chest_shadow_jb": {
+      "frame": {
+        "x": 245,
+        "y": 123,
+        "w": 154,
+        "h": 79
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 154,
+        "h": 79
+      },
+      "sourceSize": {
+        "w": 154,
+        "h": 79
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "fx_box_glow_jb": {
+      "frame": {
+        "x": 4,
+        "y": 125,
+        "w": 153,
+        "h": 148
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 153,
+        "h": 148
+      },
+      "sourceSize": {
+        "w": 153,
+        "h": 148
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "fx_dust_jb": {
+      "frame": {
+        "x": 165,
+        "y": 125,
+        "w": 68,
+        "h": 53
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 68,
+        "h": 53
+      },
+      "sourceSize": {
+        "w": 68,
+        "h": 53
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "fx_sparcles02_jb": {
+      "frame": {
+        "x": 165,
+        "y": 186,
+        "w": 64,
+        "h": 56
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 56
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 56
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "chest_box_jb": {
+      "frame": {
+        "x": 591,
+        "y": 4,
+        "w": 140,
+        "h": 134
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 140,
+        "h": 134
+      },
+      "sourceSize": {
+        "w": 140,
+        "h": 134
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "chest_lid_shadow_jb": {
+      "frame": {
+        "x": 407,
+        "y": 140,
+        "w": 136,
+        "h": 55
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 136,
+        "h": 55
+      },
+      "sourceSize": {
+        "w": 136,
+        "h": 55
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "fx_sparcles01_jb": {
+      "frame": {
+        "x": 407,
+        "y": 203,
+        "w": 101,
+        "h": 52
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 101,
+        "h": 52
+      },
+      "sourceSize": {
+        "w": 101,
+        "h": 52
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "fx_sparcles03_jb": {
+      "frame": {
+        "x": 237,
+        "y": 210,
+        "w": 84,
+        "h": 57
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 84,
+        "h": 57
+      },
+      "sourceSize": {
+        "w": 84,
+        "h": 57
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "lock_closed_jb": {
+      "frame": {
+        "x": 165,
+        "y": 275,
+        "w": 82,
+        "h": 84
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 82,
+        "h": 84
+      },
+      "sourceSize": {
+        "w": 82,
+        "h": 84
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "lock_open_jb": {
+      "frame": {
+        "x": 255,
+        "y": 275,
+        "w": 81,
+        "h": 96
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 81,
+        "h": 96
+      },
+      "sourceSize": {
+        "w": 81,
+        "h": 96
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/odrick/free-tex-packer-core",
+    "version": "0.3.4",
+    "image": "reward_crates_jingleballs.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 735,
+      "h": 375
+    },
+    "scale": 0.5
+  }
+}

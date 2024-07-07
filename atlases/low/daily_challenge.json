@@ -1,0 +1,327 @@
+{
+  "frames": {
+    "popup_eventheader_dailychallenges": {
+      "frame": {
+        "x": 4,
+        "y": 4,
+        "w": 494,
+        "h": 99
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 494,
+        "h": 99
+      },
+      "sourceSize": {
+        "w": 494,
+        "h": 99
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "UI_bg_dailychallenges_task_active": {
+      "frame": {
+        "x": 506,
+        "y": 4,
+        "w": 455,
+        "h": 111
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 455,
+        "h": 111
+      },
+      "sourceSize": {
+        "w": 455,
+        "h": 111
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "UI_bg_dailychallenges_task_done": {
+      "frame": {
+        "x": 4,
+        "y": 111,
+        "w": 455,
+        "h": 111
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 455,
+        "h": 111
+      },
+      "sourceSize": {
+        "w": 455,
+        "h": 111
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_checkmark_dailychallenges_popup": {
+      "frame": {
+        "x": 467,
+        "y": 111,
+        "w": 28,
+        "h": 29
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 28,
+        "h": 29
+      },
+      "sourceSize": {
+        "w": 28,
+        "h": 29
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "UI_bg_dailychallenges_task_popup": {
+      "frame": {
+        "x": 969,
+        "y": 4,
+        "w": 455,
+        "h": 111
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 455,
+        "h": 111
+      },
+      "sourceSize": {
+        "w": 455,
+        "h": 111
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_maryjane": {
+      "frame": {
+        "x": 1432,
+        "y": 4,
+        "w": 227,
+        "h": 263
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 227,
+        "h": 263
+      },
+      "sourceSize": {
+        "w": 227,
+        "h": 263
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bg_dailytasks": {
+      "frame": {
+        "x": 1667,
+        "y": 4,
+        "w": 180,
+        "h": 201
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 180,
+        "h": 201
+      },
+      "sourceSize": {
+        "w": 180,
+        "h": 201
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bg_dailytasks_mask": {
+      "frame": {
+        "x": 1855,
+        "y": 4,
+        "w": 180,
+        "h": 201
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 180,
+        "h": 201
+      },
+      "sourceSize": {
+        "w": 180,
+        "h": 201
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bg_dailytasks_overlay": {
+      "frame": {
+        "x": 1667,
+        "y": 213,
+        "w": 146,
+        "h": 161
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 146,
+        "h": 161
+      },
+      "sourceSize": {
+        "w": 146,
+        "h": 161
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_gift_dailychallenges": {
+      "frame": {
+        "x": 1821,
+        "y": 213,
+        "w": 97,
+        "h": 109
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 97,
+        "h": 109
+      },
+      "sourceSize": {
+        "w": 97,
+        "h": 109
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "UI_progressbar_dailychallenges_background": {
+      "frame": {
+        "x": 1926,
+        "y": 213,
+        "w": 39,
+        "h": 38
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 39,
+        "h": 38
+      },
+      "sourceSize": {
+        "w": 39,
+        "h": 38
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_checkmark_dailychallenges": {
+      "frame": {
+        "x": 1973,
+        "y": 213,
+        "w": 32,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 33
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "UI_scrollbar_dailychallenges": {
+      "frame": {
+        "x": 2013,
+        "y": 213,
+        "w": 8,
+        "h": 10
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 8,
+        "h": 10
+      },
+      "sourceSize": {
+        "w": 8,
+        "h": 10
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/odrick/free-tex-packer-core",
+    "version": "0.3.4",
+    "image": "daily_challenge.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 2039,
+      "h": 378
+    },
+    "scale": 0.5
+  }
+}

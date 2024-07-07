@@ -1,0 +1,87 @@
+{
+  "frames": {
+    "ads_fall_back_bg": {
+      "frame": {
+        "x": 4,
+        "y": 4,
+        "w": 473,
+        "h": 1024
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 473,
+        "h": 1024
+      },
+      "sourceSize": {
+        "w": 473,
+        "h": 1024
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ads_fall_back_tile": {
+      "frame": {
+        "x": 4,
+        "y": 1036,
+        "w": 560,
+        "h": 564
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 560,
+        "h": 564
+      },
+      "sourceSize": {
+        "w": 560,
+        "h": 564
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "btn_outline_fallback_ad": {
+      "frame": {
+        "x": 4,
+        "y": 1608,
+        "w": 167,
+        "h": 42
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 167,
+        "h": 42
+      },
+      "sourceSize": {
+        "w": 167,
+        "h": 42
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/odrick/free-tex-packer-core",
+    "version": "0.3.4",
+    "image": "fake_ads.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 568,
+      "h": 1654
+    },
+    "scale": 0.5
+  }
+}

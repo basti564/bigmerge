@@ -1,0 +1,63 @@
+{
+  "frames": {
+    "bottom_background": {
+      "frame": {
+        "x": 4,
+        "y": 4,
+        "w": 737,
+        "h": 513
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 737,
+        "h": 513
+      },
+      "sourceSize": {
+        "w": 737,
+        "h": 513
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "decorative_03": {
+      "frame": {
+        "x": 749,
+        "y": 4,
+        "w": 328,
+        "h": 452
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 328,
+        "h": 452
+      },
+      "sourceSize": {
+        "w": 328,
+        "h": 452
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/odrick/free-tex-packer-core",
+    "version": "0.3.4",
+    "image": "decals-1.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1081,
+      "h": 521
+    },
+    "scale": 0.5
+  }
+}

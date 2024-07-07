@@ -1,0 +1,375 @@
+{
+  "frames": {
+    "popup_background_blackfriday_9slice": {
+      "frame": {
+        "x": 4,
+        "y": 4,
+        "w": 544,
+        "h": 590
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 544,
+        "h": 590
+      },
+      "sourceSize": {
+        "w": 544,
+        "h": 590
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bg_marketplace_fb_blackfriday01": {
+      "frame": {
+        "x": 4,
+        "y": 602,
+        "w": 242,
+        "h": 479
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 242,
+        "h": 479
+      },
+      "sourceSize": {
+        "w": 242,
+        "h": 479
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_eventimage_blackfriday": {
+      "frame": {
+        "x": 4,
+        "y": 1089,
+        "w": 490,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 490,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 490,
+        "h": 293
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bg_marketplace_fb_blackfriday02": {
+      "frame": {
+        "x": 254,
+        "y": 602,
+        "w": 232,
+        "h": 153
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 232,
+        "h": 153
+      },
+      "sourceSize": {
+        "w": 232,
+        "h": 153
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bg_marketplace_fb_blackfriday03": {
+      "frame": {
+        "x": 254,
+        "y": 763,
+        "w": 232,
+        "h": 153
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 232,
+        "h": 153
+      },
+      "sourceSize": {
+        "w": 232,
+        "h": 153
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bg_marketplace_fb_blackfriday04": {
+      "frame": {
+        "x": 254,
+        "y": 924,
+        "w": 232,
+        "h": 153
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 232,
+        "h": 153
+      },
+      "sourceSize": {
+        "w": 232,
+        "h": 153
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bg_marketplace_ms_cg_blackfriday03": {
+      "frame": {
+        "x": 494,
+        "y": 602,
+        "w": 232,
+        "h": 153
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 232,
+        "h": 153
+      },
+      "sourceSize": {
+        "w": 232,
+        "h": 153
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bg_marketplace_ms_cg_blackfriday04": {
+      "frame": {
+        "x": 494,
+        "y": 763,
+        "w": 232,
+        "h": 153
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 232,
+        "h": 153
+      },
+      "sourceSize": {
+        "w": 232,
+        "h": 153
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "popup_eventheader_blackfriday": {
+      "frame": {
+        "x": 494,
+        "y": 924,
+        "w": 495,
+        "h": 99
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 495,
+        "h": 99
+      },
+      "sourceSize": {
+        "w": 495,
+        "h": 99
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "HUD_icon_banner": {
+      "frame": {
+        "x": 556,
+        "y": 4,
+        "w": 166,
+        "h": 72
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 166,
+        "h": 72
+      },
+      "sourceSize": {
+        "w": 166,
+        "h": 72
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "btn_event_blackfriday_active": {
+      "frame": {
+        "x": 556,
+        "y": 84,
+        "w": 78,
+        "h": 71
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 78,
+        "h": 71
+      },
+      "sourceSize": {
+        "w": 78,
+        "h": 71
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "btn_event_blackfriday_idle": {
+      "frame": {
+        "x": 556,
+        "y": 163,
+        "w": 78,
+        "h": 71
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 78,
+        "h": 71
+      },
+      "sourceSize": {
+        "w": 78,
+        "h": 71
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "HUD_icon_percentage": {
+      "frame": {
+        "x": 556,
+        "y": 242,
+        "w": 69,
+        "h": 70
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 69,
+        "h": 70
+      },
+      "sourceSize": {
+        "w": 69,
+        "h": 70
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bg_marketplace_ms_cg_blackfriday01": {
+      "frame": {
+        "x": 4,
+        "y": 602,
+        "w": 242,
+        "h": 479
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 242,
+        "h": 479
+      },
+      "sourceSize": {
+        "w": 242,
+        "h": 479
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bg_marketplace_ms_cg_blackfriday02": {
+      "frame": {
+        "x": 254,
+        "y": 602,
+        "w": 232,
+        "h": 153
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 232,
+        "h": 153
+      },
+      "sourceSize": {
+        "w": 232,
+        "h": 153
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/odrick/free-tex-packer-core",
+    "version": "0.3.4",
+    "image": "events_blackfriday.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 993,
+      "h": 1386
+    },
+    "scale": 0.5
+  }
+}

@@ -1,0 +1,375 @@
+{
+  "frames": {
+    "btn_rank_level_level_up_panel": {
+      "frame": {
+        "x": 4,
+        "y": 4,
+        "w": 328,
+        "h": 328
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 328,
+        "h": 328
+      },
+      "sourceSize": {
+        "w": 328,
+        "h": 328
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "txt_placholder_level_up": {
+      "frame": {
+        "x": 340,
+        "y": 4,
+        "w": 327,
+        "h": 99
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 327,
+        "h": 99
+      },
+      "sourceSize": {
+        "w": 327,
+        "h": 99
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "btn_rank_level_level_up_panel_backdrop": {
+      "frame": {
+        "x": 675,
+        "y": 4,
+        "w": 302,
+        "h": 260
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 302,
+        "h": 260
+      },
+      "sourceSize": {
+        "w": 302,
+        "h": 260
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "btn_rank_level_level_up_panel_filling": {
+      "frame": {
+        "x": 340,
+        "y": 111,
+        "w": 298,
+        "h": 256
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 298,
+        "h": 256
+      },
+      "sourceSize": {
+        "w": 298,
+        "h": 256
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "txt_placholder_tap_to_continue": {
+      "frame": {
+        "x": 4,
+        "y": 340,
+        "w": 235,
+        "h": 44
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 235,
+        "h": 44
+      },
+      "sourceSize": {
+        "w": 235,
+        "h": 44
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "btn_rank_level_flash": {
+      "frame": {
+        "x": 247,
+        "y": 340,
+        "w": 80,
+        "h": 83
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 80,
+        "h": 83
+      },
+      "sourceSize": {
+        "w": 80,
+        "h": 83
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "btn_rank_level_bow_left": {
+      "frame": {
+        "x": 4,
+        "y": 392,
+        "w": 197,
+        "h": 222
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 197,
+        "h": 222
+      },
+      "sourceSize": {
+        "w": 197,
+        "h": 222
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "btn_rank_level_star_01": {
+      "frame": {
+        "x": 209,
+        "y": 392,
+        "w": 30,
+        "h": 28
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 30,
+        "h": 28
+      },
+      "sourceSize": {
+        "w": 30,
+        "h": 28
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "btn_rank_level_crown": {
+      "frame": {
+        "x": 985,
+        "y": 4,
+        "w": 187,
+        "h": 142
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 187,
+        "h": 142
+      },
+      "sourceSize": {
+        "w": 187,
+        "h": 142
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "btn_rank_level_bow_right": {
+      "frame": {
+        "x": 1180,
+        "y": 4,
+        "w": 177,
+        "h": 221
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 177,
+        "h": 221
+      },
+      "sourceSize": {
+        "w": 177,
+        "h": 221
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "txt_placholder_new_number": {
+      "frame": {
+        "x": 985,
+        "y": 154,
+        "w": 151,
+        "h": 127
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 151,
+        "h": 127
+      },
+      "sourceSize": {
+        "w": 151,
+        "h": 127
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "txt_placholder_old_number": {
+      "frame": {
+        "x": 646,
+        "y": 272,
+        "w": 151,
+        "h": 127
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 151,
+        "h": 127
+      },
+      "sourceSize": {
+        "w": 151,
+        "h": 127
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "txt_placholder_rewards": {
+      "frame": {
+        "x": 805,
+        "y": 272,
+        "w": 141,
+        "h": 37
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 141,
+        "h": 37
+      },
+      "sourceSize": {
+        "w": 141,
+        "h": 37
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "btn_rank_level_star_02": {
+      "frame": {
+        "x": 335,
+        "y": 375,
+        "w": 56,
+        "h": 59
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 56,
+        "h": 59
+      },
+      "sourceSize": {
+        "w": 56,
+        "h": 59
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "btn_rank_level_star_03": {
+      "frame": {
+        "x": 209,
+        "y": 431,
+        "w": 33,
+        "h": 34
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 33,
+        "h": 34
+      },
+      "sourceSize": {
+        "w": 33,
+        "h": 34
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/odrick/free-tex-packer-core",
+    "version": "0.3.4",
+    "image": "level_up_rewards_sequence.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1361,
+      "h": 618
+    },
+    "scale": 0.5
+  }
+}

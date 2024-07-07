@@ -1,0 +1,567 @@
+{
+  "frames": {
+    "bg_marketplace_christmas01": {
+      "frame": {
+        "x": 4,
+        "y": 4,
+        "w": 268,
+        "h": 530
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 268,
+        "h": 530
+      },
+      "sourceSize": {
+        "w": 268,
+        "h": 530
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bg_marketplace_crates01": {
+      "frame": {
+        "x": 4,
+        "y": 542,
+        "w": 268,
+        "h": 530
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 268,
+        "h": 530
+      },
+      "sourceSize": {
+        "w": 268,
+        "h": 530
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bg_marketplace_energy01": {
+      "frame": {
+        "x": 4,
+        "y": 1080,
+        "w": 268,
+        "h": 530
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 268,
+        "h": 530
+      },
+      "sourceSize": {
+        "w": 268,
+        "h": 530
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bg_marketplace_christmas02": {
+      "frame": {
+        "x": 4,
+        "y": 1618,
+        "w": 257,
+        "h": 169
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 257,
+        "h": 169
+      },
+      "sourceSize": {
+        "w": 257,
+        "h": 169
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bg_marketplace_christmas03": {
+      "frame": {
+        "x": 4,
+        "y": 1795,
+        "w": 257,
+        "h": 169
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 257,
+        "h": 169
+      },
+      "sourceSize": {
+        "w": 257,
+        "h": 169
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_tab_halloween": {
+      "frame": {
+        "x": 4,
+        "y": 1972,
+        "w": 100,
+        "h": 72
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 100,
+        "h": 72
+      },
+      "sourceSize": {
+        "w": 100,
+        "h": 72
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_tab_christmas": {
+      "frame": {
+        "x": 112,
+        "y": 1972,
+        "w": 88,
+        "h": 72
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 88,
+        "h": 72
+      },
+      "sourceSize": {
+        "w": 88,
+        "h": 72
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ui_btn_price_line": {
+      "frame": {
+        "x": 208,
+        "y": 1972,
+        "w": 73,
+        "h": 14
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 73,
+        "h": 14
+      },
+      "sourceSize": {
+        "w": 73,
+        "h": 14
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bg_marketplace_christmas04": {
+      "frame": {
+        "x": 269,
+        "y": 1618,
+        "w": 257,
+        "h": 169
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 257,
+        "h": 169
+      },
+      "sourceSize": {
+        "w": 257,
+        "h": 169
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bg_marketplace_crates02": {
+      "frame": {
+        "x": 269,
+        "y": 1795,
+        "w": 257,
+        "h": 169
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 257,
+        "h": 169
+      },
+      "sourceSize": {
+        "w": 257,
+        "h": 169
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bg_marketplace_crates03": {
+      "frame": {
+        "x": 534,
+        "y": 1618,
+        "w": 257,
+        "h": 169
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 257,
+        "h": 169
+      },
+      "sourceSize": {
+        "w": 257,
+        "h": 169
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bg_marketplace_crates04": {
+      "frame": {
+        "x": 534,
+        "y": 1795,
+        "w": 257,
+        "h": 169
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 257,
+        "h": 169
+      },
+      "sourceSize": {
+        "w": 257,
+        "h": 169
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bg_marketplace_energy02": {
+      "frame": {
+        "x": 799,
+        "y": 1795,
+        "w": 257,
+        "h": 169
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 257,
+        "h": 169
+      },
+      "sourceSize": {
+        "w": 257,
+        "h": 169
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bg_marketplace_gems01": {
+      "frame": {
+        "x": 1064,
+        "y": 4,
+        "w": 268,
+        "h": 530
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 268,
+        "h": 530
+      },
+      "sourceSize": {
+        "w": 268,
+        "h": 530
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bg_marketplace_energy03": {
+      "frame": {
+        "x": 799,
+        "y": 4,
+        "w": 257,
+        "h": 169
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 257,
+        "h": 169
+      },
+      "sourceSize": {
+        "w": 257,
+        "h": 169
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bg_marketplace_energy04": {
+      "frame": {
+        "x": 799,
+        "y": 181,
+        "w": 257,
+        "h": 169
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 257,
+        "h": 169
+      },
+      "sourceSize": {
+        "w": 257,
+        "h": 169
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bg_marketplace_gems02": {
+      "frame": {
+        "x": 799,
+        "y": 358,
+        "w": 257,
+        "h": 169
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 257,
+        "h": 169
+      },
+      "sourceSize": {
+        "w": 257,
+        "h": 169
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bg_marketplace_gems03": {
+      "frame": {
+        "x": 799,
+        "y": 535,
+        "w": 257,
+        "h": 169
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 257,
+        "h": 169
+      },
+      "sourceSize": {
+        "w": 257,
+        "h": 169
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bg_marketplace_halloween01": {
+      "frame": {
+        "x": 280,
+        "y": 4,
+        "w": 268,
+        "h": 530
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 268,
+        "h": 530
+      },
+      "sourceSize": {
+        "w": 268,
+        "h": 530
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bg_marketplace_gems04": {
+      "frame": {
+        "x": 280,
+        "y": 542,
+        "w": 257,
+        "h": 169
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 257,
+        "h": 169
+      },
+      "sourceSize": {
+        "w": 257,
+        "h": 169
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bg_marketplace_halloween02": {
+      "frame": {
+        "x": 1340,
+        "y": 4,
+        "w": 257,
+        "h": 169
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 257,
+        "h": 169
+      },
+      "sourceSize": {
+        "w": 257,
+        "h": 169
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bg_marketplace_halloween03": {
+      "frame": {
+        "x": 1605,
+        "y": 4,
+        "w": 257,
+        "h": 169
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 257,
+        "h": 169
+      },
+      "sourceSize": {
+        "w": 257,
+        "h": 169
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bg_marketplace_halloween04": {
+      "frame": {
+        "x": 1340,
+        "y": 181,
+        "w": 257,
+        "h": 169
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 257,
+        "h": 169
+      },
+      "sourceSize": {
+        "w": 257,
+        "h": 169
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/odrick/free-tex-packer-core",
+    "version": "0.3.4",
+    "image": "marketplace.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1866,
+      "h": 2048
+    },
+    "scale": 0.5538461538461539
+  }
+}

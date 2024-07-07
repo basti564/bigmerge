@@ -1,0 +1,111 @@
+{
+  "frames": {
+    "cs_help_obstruction_hay": {
+      "frame": {
+        "x": 4,
+        "y": 4,
+        "w": 320,
+        "h": 165
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 320,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 320,
+        "h": 165
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "cs_help_obstruction_tractor": {
+      "frame": {
+        "x": 332,
+        "y": 4,
+        "w": 320,
+        "h": 165
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 320,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 320,
+        "h": 165
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "cs_help_obstruction_wheel": {
+      "frame": {
+        "x": 660,
+        "y": 4,
+        "w": 320,
+        "h": 165
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 320,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 320,
+        "h": 165
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "cs_invitation": {
+      "frame": {
+        "x": 988,
+        "y": 4,
+        "w": 320,
+        "h": 165
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 320,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 320,
+        "h": 165
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/odrick/free-tex-packer-core",
+    "version": "0.3.4",
+    "image": "cs_images.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1312,
+      "h": 173
+    },
+    "scale": 0.5
+  }
+}

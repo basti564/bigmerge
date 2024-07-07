@@ -1,0 +1,399 @@
+{
+  "frames": {
+    "ingredient_tomato": {
+      "frame": {
+        "x": 4,
+        "y": 4,
+        "w": 86,
+        "h": 79
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 86,
+        "h": 79
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 79
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ingredient_fur": {
+      "frame": {
+        "x": 98,
+        "y": 4,
+        "w": 82,
+        "h": 82
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 82,
+        "h": 82
+      },
+      "sourceSize": {
+        "w": 82,
+        "h": 82
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ingredient_wool": {
+      "frame": {
+        "x": 4,
+        "y": 91,
+        "w": 82,
+        "h": 55
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 82,
+        "h": 55
+      },
+      "sourceSize": {
+        "w": 82,
+        "h": 55
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ingredient_sunflower": {
+      "frame": {
+        "x": 188,
+        "y": 4,
+        "w": 79,
+        "h": 67
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 79,
+        "h": 67
+      },
+      "sourceSize": {
+        "w": 79,
+        "h": 67
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ingredient_avocado": {
+      "frame": {
+        "x": 275,
+        "y": 4,
+        "w": 78,
+        "h": 68
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 78,
+        "h": 68
+      },
+      "sourceSize": {
+        "w": 78,
+        "h": 68
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ingredient_coffeebeans": {
+      "frame": {
+        "x": 188,
+        "y": 79,
+        "w": 77,
+        "h": 54
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 77,
+        "h": 54
+      },
+      "sourceSize": {
+        "w": 77,
+        "h": 54
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ingredient_truffle": {
+      "frame": {
+        "x": 94,
+        "y": 94,
+        "w": 76,
+        "h": 60
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 76,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 76,
+        "h": 60
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ingredient_bacon": {
+      "frame": {
+        "x": 4,
+        "y": 154,
+        "w": 75,
+        "h": 62
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 75,
+        "h": 62
+      },
+      "sourceSize": {
+        "w": 75,
+        "h": 62
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ingredient_soybean": {
+      "frame": {
+        "x": 361,
+        "y": 4,
+        "w": 72,
+        "h": 77
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 72,
+        "h": 77
+      },
+      "sourceSize": {
+        "w": 72,
+        "h": 77
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ingredient_carrot": {
+      "frame": {
+        "x": 273,
+        "y": 80,
+        "w": 72,
+        "h": 67
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 72,
+        "h": 67
+      },
+      "sourceSize": {
+        "w": 72,
+        "h": 67
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ingredient_sugarcane": {
+      "frame": {
+        "x": 273,
+        "y": 155,
+        "w": 69,
+        "h": 67
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 69,
+        "h": 67
+      },
+      "sourceSize": {
+        "w": 69,
+        "h": 67
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ingredient_goat_milk": {
+      "frame": {
+        "x": 178,
+        "y": 141,
+        "w": 67,
+        "h": 72
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 67,
+        "h": 72
+      },
+      "sourceSize": {
+        "w": 67,
+        "h": 72
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ingredient_milk": {
+      "frame": {
+        "x": 87,
+        "y": 162,
+        "w": 66,
+        "h": 86
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 66,
+        "h": 86
+      },
+      "sourceSize": {
+        "w": 66,
+        "h": 86
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ingredient_corn": {
+      "frame": {
+        "x": 4,
+        "y": 224,
+        "w": 62,
+        "h": 69
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 62,
+        "h": 69
+      },
+      "sourceSize": {
+        "w": 62,
+        "h": 69
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ingredient_wheat": {
+      "frame": {
+        "x": 161,
+        "y": 221,
+        "w": 59,
+        "h": 70
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 59,
+        "h": 70
+      },
+      "sourceSize": {
+        "w": 59,
+        "h": 70
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ingredient_egg": {
+      "frame": {
+        "x": 74,
+        "y": 256,
+        "w": 56,
+        "h": 66
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 56,
+        "h": 66
+      },
+      "sourceSize": {
+        "w": 56,
+        "h": 66
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/odrick/free-tex-packer-core",
+    "version": "0.3.4",
+    "image": "ingredients.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 437,
+      "h": 326
+    },
+    "scale": 0.5
+  }
+}

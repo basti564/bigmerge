@@ -1,0 +1,39 @@
+{
+  "frames": {
+    "z": {
+      "frame": {
+        "x": 4,
+        "y": 4,
+        "w": 88,
+        "h": 72
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 88,
+        "h": 72
+      },
+      "sourceSize": {
+        "w": 88,
+        "h": 72
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/odrick/free-tex-packer-core",
+    "version": "0.3.4",
+    "image": "sleep.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 96,
+      "h": 80
+    },
+    "scale": 0.5
+  }
+}

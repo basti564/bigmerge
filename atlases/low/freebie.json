@@ -1,0 +1,87 @@
+{
+  "frames": {
+    "icon_freebie_popupheader": {
+      "frame": {
+        "x": 4,
+        "y": 4,
+        "w": 519,
+        "h": 175
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 519,
+        "h": 175
+      },
+      "sourceSize": {
+        "w": 519,
+        "h": 175
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_freebie_offers": {
+      "frame": {
+        "x": 531,
+        "y": 4,
+        "w": 450,
+        "h": 205
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 450,
+        "h": 205
+      },
+      "sourceSize": {
+        "w": 450,
+        "h": 205
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bg_freebie_timerribbon": {
+      "frame": {
+        "x": 4,
+        "y": 187,
+        "w": 230,
+        "h": 77
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 230,
+        "h": 77
+      },
+      "sourceSize": {
+        "w": 230,
+        "h": 77
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/odrick/free-tex-packer-core",
+    "version": "0.3.4",
+    "image": "freebie.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 985,
+      "h": 268
+    },
+    "scale": 0.5
+  }
+}
