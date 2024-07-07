@@ -6763,19 +6763,10 @@
                 )),
                 (this._loginBackButton =
                   document.getElementById("login-back-button")),
-                (this._loginButtonFacebook = document.getElementById(
-                  "login-social-button-facebook"
-                )),
-                (this._loginButtonGoogle = document.getElementById(
-                  "login-social-button-google"
-                )),
                 (this._continueAsGuestButton =
                   document.getElementById("continue-as-guest")),
                 (this._emailLoginErrorMessage = document.getElementById(
                   "email-login-error-message"
-                )),
-                (this._socialLoginErrorMessage = document.getElementById(
-                  "social-login-error-message"
                 )),
                 (this._isSubmitting = !1),
                 (this._nakamaProvider = new s.v8("L08XU9LWvqwc097P9", {
@@ -6792,102 +6783,6 @@
                 (this._deferredLoginPromiseResolve = null),
                 (this._localStorageTokenKey = "StandaloneNakamaUserToken"),
                 (this._localizationManager = null),
-                (this._handleGoogleAuthenticationResponse = function (t) {
-                  return (0, n.__awaiter)(e, void 0, void 0, function () {
-                    var e, i, r, o;
-                    return (0, n.__generator)(this, function (n) {
-                      switch (n.label) {
-                        case 0:
-                          return (
-                            (e = t.credential),
-                            (i = (0, pe.o)(e)),
-                            null != (r = i.sub)
-                              ? [3, 1]
-                              : ((this._lastLoginResult = be.FAILURE), [3, 4])
-                          );
-                        case 1:
-                          return (
-                            n.trys.push([1, 3, , 4]),
-                            [4, this._authenticateWithNakama(r)]
-                          );
-                        case 2:
-                          return (
-                            n.sent(),
-                            (this._lastLoginResult = be.SUCCESS),
-                            [3, 4]
-                          );
-                        case 3:
-                          return (
-                            (o = n.sent()),
-                            console.log("Google authentication failed:", o),
-                            (this._lastLoginResult = be.FAILURE),
-                            this._showSocialErrorMessage(),
-                            this._resetModal(),
-                            [2]
-                          );
-                        case 4:
-                          return (
-                            this._resetModal(),
-                            this._resolveLoginAttemptAndCloseDialog(),
-                            [2]
-                          );
-                      }
-                    });
-                  });
-                }),
-                (this._doFacebookAuthentication = function () {
-                  var t = !0;
-                  FB.init({
-                    appId: "1119739269465684",
-                    xfbml: !0,
-                    version: "v19.0",
-                  }),
-                    FB.login(function (i) {
-                      return (0, n.__awaiter)(e, void 0, void 0, function () {
-                        var e, r;
-                        return (0, n.__generator)(this, function (n) {
-                          switch (n.label) {
-                            case 0:
-                              if (
-                                ((e = i.authResponse),
-                                "connected" !== i.status ||
-                                  void 0 === e.userID ||
-                                  void 0 === e.accessToken ||
-                                  null === e.userID ||
-                                  null === e.accessToken)
-                              )
-                                return [3, 4];
-                              (r = e.userID), (n.label = 1);
-                            case 1:
-                              return (
-                                n.trys.push([1, 3, , 4]),
-                                [4, this._authenticateWithNakama(r)]
-                              );
-                            case 2:
-                              return (
-                                n.sent(),
-                                (this._lastLoginResult = be.SUCCESS),
-                                (t = !1),
-                                [3, 4]
-                              );
-                            case 3:
-                              return n.sent(), (t = !0), [3, 4];
-                            case 4:
-                              return t
-                                ? (console.log(
-                                    "User cancelled Facebook login or authorization failed."
-                                  ),
-                                  (this._lastLoginResult = be.FAILURE),
-                                  this._showSocialErrorMessage(),
-                                  [2])
-                                : (this._resetModal(),
-                                  this._resolveLoginAttemptAndCloseDialog(),
-                                  [2]);
-                          }
-                        });
-                      });
-                    });
-                }),
                 (this._doEmailAuthentication = function () {
                   return (0, n.__awaiter)(e, void 0, void 0, function () {
                     var e, t, i, r;
@@ -7030,31 +6925,7 @@
                     });
                   });
                 }),
-                (function (e, t, i) {
-                  var n,
-                    r,
-                    o = e.getElementsByTagName(t)[0];
-                  e.getElementById(i) ||
-                    (((r = e.createElement(t)).id = i),
-                    (r.src = "https://connect.facebook.net/en_US/sdk.js"),
-                    null === (n = o.parentNode) ||
-                      void 0 === n ||
-                      n.insertBefore(r, o));
-                })(document, "script", "facebook-jssdk"),
-                (function (e, t, i) {
-                  var n,
-                    r,
-                    o = e.getElementsByTagName(t)[0];
-                  e.getElementById(i) ||
-                    (((r = e.createElement(t)).id = i),
-                    (r.src = "https://accounts.google.com/gsi/client"),
-                    null === (n = o.parentNode) ||
-                      void 0 === n ||
-                      n.insertBefore(r, o));
-                })(document, "script", "google-auth-library"),
                 !(
-                  this._loginButtonFacebook &&
-                  this._loginButtonGoogle &&
                   this._loginBackButton &&
                   this._loginFormEmail &&
                   this._loginFormEmailToken &&
@@ -7062,17 +6933,12 @@
                   this._loginButtonEmailToken &&
                   this._continueAsGuestButton &&
                   this._tokenInputField &&
-                  this._socialLoginErrorMessage &&
                   this._emailLoginErrorMessage
                 ))
               )
                 throw new Error(
                   "HTML for standalone authentication modal not available."
                 );
-              this._loginButtonFacebook.addEventListener(
-                "click",
-                this._doFacebookAuthentication
-              ),
                 this._loginFormEmail.addEventListener("submit", function (t) {
                   t.preventDefault(), e._doEmailAuthentication();
                 });
@@ -7385,7 +7251,6 @@
                               (c = this._emailInputField),
                               (l = this._loginButtonEmail),
                               (u = this._loginButtonEmailToken),
-                              (d = this._socialLoginErrorMessage),
                               (h = this._emailLoginErrorMessage),
                               o && a && s && _ && c && l && u && d && h
                                 ? ((o.innerText = this._localized(
@@ -7505,20 +7370,6 @@
                   throw new Error(
                     "HTML for standalone login modal not available."
                   );
-                google.accounts.id.initialize({
-                  client_id:
-                    "944697628255-bi5pkqapef258mmv979v8jhnibb5e44h.apps.googleusercontent.com",
-                  callback: this._handleGoogleAuthenticationResponse,
-                }),
-                  google.accounts.id.renderButton(this._loginButtonGoogle, {
-                    type: "standard",
-                    theme: "outline",
-                    text: "continue_with",
-                    logo_alignment: "left",
-                    size: "large",
-                    shape: "rectangular",
-                    width: 263,
-                  }),
                   this._loginModal.setAttribute("open", ""),
                   document.documentElement.classList.add(
                     "modal-is-open",
@@ -7544,13 +7395,6 @@
                   );
                 this._loginModal.removeAttribute("open");
               }),
-              (e.prototype._showSocialErrorMessage = function () {
-                if (!this._socialLoginErrorMessage)
-                  throw new Error(
-                    "HTML for standalone login modal not available."
-                  );
-                this._socialLoginErrorMessage.classList.remove("d-none");
-              }),
               (e.prototype._showEmailErrorMessage = function () {
                 if (!this._emailLoginErrorMessage || !this._loginFormEmail)
                   throw new Error(
@@ -7562,15 +7406,12 @@
               }),
               (e.prototype._resetModal = function () {
                 if (
-                  !this._socialLoginErrorMessage ||
                   !this._emailLoginErrorMessage ||
                   !this._loginFormEmail
                 )
                   throw new Error(
                     "HTML for standalone login modal not available."
                   );
-                this._socialLoginErrorMessage.classList.contains("d-none") ||
-                  this._socialLoginErrorMessage.classList.add("d-none"),
                   this._emailLoginErrorMessage.classList.contains("d-none") ||
                     this._emailLoginErrorMessage.classList.add("d-none"),
                   this._loginFormEmail.classList.contains("d-none") &&
