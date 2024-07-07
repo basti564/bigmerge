@@ -1,0 +1,111 @@
+{
+  "frames": {
+    "icon_premiumland_promopic": {
+      "frame": {
+        "x": 4,
+        "y": 4,
+        "w": 664,
+        "h": 312
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 664,
+        "h": 312
+      },
+      "sourceSize": {
+        "w": 664,
+        "h": 312
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_premiumland_header": {
+      "frame": {
+        "x": 676,
+        "y": 4,
+        "w": 426,
+        "h": 83
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 426,
+        "h": 83
+      },
+      "sourceSize": {
+        "w": 426,
+        "h": 83
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_premiumland_specialoffer_rays": {
+      "frame": {
+        "x": 1110,
+        "y": 4,
+        "w": 264,
+        "h": 264
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 264,
+        "h": 264
+      },
+      "sourceSize": {
+        "w": 264,
+        "h": 264
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_premiumland_specialoffer": {
+      "frame": {
+        "x": 676,
+        "y": 95,
+        "w": 114,
+        "h": 116
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 114,
+        "h": 116
+      },
+      "sourceSize": {
+        "w": 114,
+        "h": 116
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/odrick/free-tex-packer-core",
+    "version": "0.3.4",
+    "image": "premium_popup.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1378,
+      "h": 320
+    },
+    "scale": 0.6692307692307692
+  }
+}

@@ -1,0 +1,327 @@
+{
+  "frames": {
+    "obj_flowers_08": {
+      "frame": {
+        "x": 4,
+        "y": 4,
+        "w": 213,
+        "h": 214
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 213,
+        "h": 214
+      },
+      "sourceSize": {
+        "w": 213,
+        "h": 214
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "obj_flowers_09": {
+      "frame": {
+        "x": 4,
+        "y": 226,
+        "w": 203,
+        "h": 214
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 203,
+        "h": 214
+      },
+      "sourceSize": {
+        "w": 203,
+        "h": 214
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "obj_sapling_02": {
+      "frame": {
+        "x": 4,
+        "y": 448,
+        "w": 141,
+        "h": 144
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 141,
+        "h": 144
+      },
+      "sourceSize": {
+        "w": 141,
+        "h": 144
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "obj_flowers_05": {
+      "frame": {
+        "x": 4,
+        "y": 600,
+        "w": 191,
+        "h": 143
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 191,
+        "h": 143
+      },
+      "sourceSize": {
+        "w": 191,
+        "h": 143
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "obj_flowers_02": {
+      "frame": {
+        "x": 153,
+        "y": 448,
+        "w": 86,
+        "h": 141
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 86,
+        "h": 141
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 141
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "obj_flowers_01": {
+      "frame": {
+        "x": 215,
+        "y": 226,
+        "w": 171,
+        "h": 139
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 171,
+        "h": 139
+      },
+      "sourceSize": {
+        "w": 171,
+        "h": 139
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "obj_sapling_01": {
+      "frame": {
+        "x": 215,
+        "y": 373,
+        "w": 125,
+        "h": 67
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 125,
+        "h": 67
+      },
+      "sourceSize": {
+        "w": 125,
+        "h": 67
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "obj_flowers_07": {
+      "frame": {
+        "x": 225,
+        "y": 4,
+        "w": 170,
+        "h": 139
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 170,
+        "h": 139
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 139
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "obj_sapling_00": {
+      "frame": {
+        "x": 225,
+        "y": 151,
+        "w": 100,
+        "h": 58
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 100,
+        "h": 58
+      },
+      "sourceSize": {
+        "w": 100,
+        "h": 58
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "obj_flowers_06": {
+      "frame": {
+        "x": 4,
+        "y": 751,
+        "w": 85,
+        "h": 137
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 85,
+        "h": 137
+      },
+      "sourceSize": {
+        "w": 85,
+        "h": 137
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "obj_flowers_03": {
+      "frame": {
+        "x": 4,
+        "y": 896,
+        "w": 193,
+        "h": 136
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 193,
+        "h": 136
+      },
+      "sourceSize": {
+        "w": 193,
+        "h": 136
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "obj_flowers_00": {
+      "frame": {
+        "x": 97,
+        "y": 751,
+        "w": 208,
+        "h": 108
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 208,
+        "h": 108
+      },
+      "sourceSize": {
+        "w": 208,
+        "h": 108
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "obj_flowers_04": {
+      "frame": {
+        "x": 203,
+        "y": 597,
+        "w": 150,
+        "h": 106
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 150,
+        "h": 106
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 106
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/odrick/free-tex-packer-core",
+    "version": "0.3.4",
+    "image": "flowers.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 399,
+      "h": 1036
+    },
+    "scale": 0.6692307692307692
+  }
+}

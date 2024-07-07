@@ -1,0 +1,111 @@
+{
+  "frames": {
+    "bg_upgradecard_crops_sugarcane_03": {
+      "frame": {
+        "x": 4,
+        "y": 4,
+        "w": 383,
+        "h": 544
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 383,
+        "h": 544
+      },
+      "sourceSize": {
+        "w": 383,
+        "h": 544
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bg_upgradecard_crops_sunflower_03": {
+      "frame": {
+        "x": 4,
+        "y": 556,
+        "w": 383,
+        "h": 544
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 383,
+        "h": 544
+      },
+      "sourceSize": {
+        "w": 383,
+        "h": 544
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bg_upgradecard_crops_tomato_03": {
+      "frame": {
+        "x": 4,
+        "y": 1108,
+        "w": 383,
+        "h": 544
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 383,
+        "h": 544
+      },
+      "sourceSize": {
+        "w": 383,
+        "h": 544
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bg_upgradecard_crops_wheat_03": {
+      "frame": {
+        "x": 395,
+        "y": 4,
+        "w": 383,
+        "h": 544
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 383,
+        "h": 544
+      },
+      "sourceSize": {
+        "w": 383,
+        "h": 544
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/odrick/free-tex-packer-core",
+    "version": "0.3.4",
+    "image": "upgrade_card_overlay-1.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 782,
+      "h": 1656
+    },
+    "scale": 0.6692307692307692
+  }
+}

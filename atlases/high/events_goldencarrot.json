@@ -1,0 +1,255 @@
+{
+  "frames": {
+    "icon_popup_goldencarrot_explanation": {
+      "frame": {
+        "x": 4,
+        "y": 4,
+        "w": 672,
+        "h": 459
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 672,
+        "h": 459
+      },
+      "sourceSize": {
+        "w": 672,
+        "h": 459
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "popup_eventheader_goldencarrot": {
+      "frame": {
+        "x": 684,
+        "y": 4,
+        "w": 663,
+        "h": 362
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 663,
+        "h": 362
+      },
+      "sourceSize": {
+        "w": 663,
+        "h": 362
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_eventimage_goldencarrot": {
+      "frame": {
+        "x": 1355,
+        "y": 4,
+        "w": 656,
+        "h": 355
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 656,
+        "h": 355
+      },
+      "sourceSize": {
+        "w": 656,
+        "h": 355
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "popup_bg_concent_9slice": {
+      "frame": {
+        "x": 1355,
+        "y": 367,
+        "w": 398,
+        "h": 497
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 398,
+        "h": 497
+      },
+      "sourceSize": {
+        "w": 398,
+        "h": 497
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "btn_HUD_event_goldencarrot_down": {
+      "frame": {
+        "x": 1761,
+        "y": 367,
+        "w": 130,
+        "h": 133
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 130,
+        "h": 133
+      },
+      "sourceSize": {
+        "w": 130,
+        "h": 133
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "btn_HUD_event_goldencarrot_idle": {
+      "frame": {
+        "x": 1899,
+        "y": 367,
+        "w": 130,
+        "h": 133
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 130,
+        "h": 133
+      },
+      "sourceSize": {
+        "w": 130,
+        "h": 133
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_progressbar_goldencarrot_lootchest": {
+      "frame": {
+        "x": 1761,
+        "y": 508,
+        "w": 120,
+        "h": 117
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 120,
+        "h": 117
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 117
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_progressbar_goldencarrot_key": {
+      "frame": {
+        "x": 1889,
+        "y": 508,
+        "w": 80,
+        "h": 114
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 80,
+        "h": 114
+      },
+      "sourceSize": {
+        "w": 80,
+        "h": 114
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_btn_goldencarrot": {
+      "frame": {
+        "x": 1977,
+        "y": 508,
+        "w": 32,
+        "h": 44
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 44
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 44
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_progressbar_event_carrot_big": {
+      "frame": {
+        "x": 1889,
+        "y": 630,
+        "w": 69,
+        "h": 111
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 69,
+        "h": 111
+      },
+      "sourceSize": {
+        "w": 69,
+        "h": 111
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/odrick/free-tex-packer-core",
+    "version": "0.3.4",
+    "image": "events_goldencarrot.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 2033,
+      "h": 868
+    },
+    "scale": 0.6692307692307692
+  }
+}

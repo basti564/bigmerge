@@ -1,0 +1,39 @@
+{
+  "frames": {
+    "icon_highlight_arrow_discoverybook": {
+      "frame": {
+        "x": 4,
+        "y": 4,
+        "w": 60,
+        "h": 71
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 60,
+        "h": 71
+      },
+      "sourceSize": {
+        "w": 60,
+        "h": 71
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/odrick/free-tex-packer-core",
+    "version": "0.3.4",
+    "image": "discovery_book_arrow.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 68,
+      "h": 79
+    },
+    "scale": 0.6692307692307692
+  }
+}

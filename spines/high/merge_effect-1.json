@@ -1,0 +1,207 @@
+{
+  "frames": {
+    "Merge_effect_particle_blue21": {
+      "frame": {
+        "x": 4,
+        "y": 4,
+        "w": 232,
+        "h": 239
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 232,
+        "h": 239
+      },
+      "sourceSize": {
+        "w": 232,
+        "h": 239
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Merge_effect_particle_blue22": {
+      "frame": {
+        "x": 4,
+        "y": 251,
+        "w": 232,
+        "h": 239
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 232,
+        "h": 239
+      },
+      "sourceSize": {
+        "w": 232,
+        "h": 239
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Merge_effect_particle_blue23": {
+      "frame": {
+        "x": 4,
+        "y": 498,
+        "w": 232,
+        "h": 239
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 232,
+        "h": 239
+      },
+      "sourceSize": {
+        "w": 232,
+        "h": 239
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Merge_effect_particle_blue24": {
+      "frame": {
+        "x": 4,
+        "y": 745,
+        "w": 232,
+        "h": 239
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 232,
+        "h": 239
+      },
+      "sourceSize": {
+        "w": 232,
+        "h": 239
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Merge_effect_particle_blue25": {
+      "frame": {
+        "x": 4,
+        "y": 992,
+        "w": 232,
+        "h": 239
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 232,
+        "h": 239
+      },
+      "sourceSize": {
+        "w": 232,
+        "h": 239
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Merge_effect_particle_blue26": {
+      "frame": {
+        "x": 4,
+        "y": 1239,
+        "w": 232,
+        "h": 239
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 232,
+        "h": 239
+      },
+      "sourceSize": {
+        "w": 232,
+        "h": 239
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Merge_effect_particle_blue27": {
+      "frame": {
+        "x": 4,
+        "y": 1486,
+        "w": 232,
+        "h": 239
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 232,
+        "h": 239
+      },
+      "sourceSize": {
+        "w": 232,
+        "h": 239
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Merge_effect_particle_blue28": {
+      "frame": {
+        "x": 4,
+        "y": 1733,
+        "w": 232,
+        "h": 239
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 232,
+        "h": 239
+      },
+      "sourceSize": {
+        "w": 232,
+        "h": 239
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/odrick/free-tex-packer-core",
+    "version": "0.3.4",
+    "image": "merge_effect-1.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 240,
+      "h": 1976
+    },
+    "scale": 0.6692307692307692
+  }
+}

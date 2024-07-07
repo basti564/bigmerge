@@ -1,0 +1,135 @@
+{
+  "frames": {
+    "bubble_main": {
+      "frame": {
+        "x": 4,
+        "y": 4,
+        "w": 467,
+        "h": 467
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 467,
+        "h": 467
+      },
+      "sourceSize": {
+        "w": 467,
+        "h": 467
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "fx_bubble_white": {
+      "frame": {
+        "x": 4,
+        "y": 479,
+        "w": 467,
+        "h": 467
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 467,
+        "h": 467
+      },
+      "sourceSize": {
+        "w": 467,
+        "h": 467
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "fx_bubble_white_ring": {
+      "frame": {
+        "x": 4,
+        "y": 954,
+        "w": 467,
+        "h": 467
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 467,
+        "h": 467
+      },
+      "sourceSize": {
+        "w": 467,
+        "h": 467
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble_side_big": {
+      "frame": {
+        "x": 4,
+        "y": 1429,
+        "w": 98,
+        "h": 98
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 98,
+        "h": 98
+      },
+      "sourceSize": {
+        "w": 98,
+        "h": 98
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble_side_small": {
+      "frame": {
+        "x": 4,
+        "y": 1535,
+        "w": 33,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 33,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 33,
+        "h": 33
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/odrick/free-tex-packer-core",
+    "version": "0.3.4",
+    "image": "balloon_detached_objects.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 475,
+      "h": 1572
+    },
+    "scale": 0.6692307692307692
+  }
+}

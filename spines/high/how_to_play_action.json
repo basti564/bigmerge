@@ -1,0 +1,63 @@
+{
+  "frames": {
+    "finger_down_glove": {
+      "frame": {
+        "x": 4,
+        "y": 4,
+        "w": 186,
+        "h": 165
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 186,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 186,
+        "h": 165
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "finger_up_glove": {
+      "frame": {
+        "x": 198,
+        "y": 4,
+        "w": 186,
+        "h": 165
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 186,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 186,
+        "h": 165
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/odrick/free-tex-packer-core",
+    "version": "0.3.4",
+    "image": "how_to_play_action.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 388,
+      "h": 173
+    },
+    "scale": 0.6692307692307692
+  }
+}

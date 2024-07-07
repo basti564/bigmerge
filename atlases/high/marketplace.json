@@ -1,0 +1,567 @@
+{
+  "frames": {
+    "bg_marketplace_christmas01": {
+      "frame": {
+        "x": 4,
+        "y": 4,
+        "w": 324,
+        "h": 641
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 324,
+        "h": 641
+      },
+      "sourceSize": {
+        "w": 324,
+        "h": 641
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bg_marketplace_crates01": {
+      "frame": {
+        "x": 4,
+        "y": 653,
+        "w": 324,
+        "h": 641
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 324,
+        "h": 641
+      },
+      "sourceSize": {
+        "w": 324,
+        "h": 641
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bg_marketplace_energy01": {
+      "frame": {
+        "x": 4,
+        "y": 1302,
+        "w": 324,
+        "h": 641
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 324,
+        "h": 641
+      },
+      "sourceSize": {
+        "w": 324,
+        "h": 641
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_tab_halloween": {
+      "frame": {
+        "x": 4,
+        "y": 1951,
+        "w": 120,
+        "h": 87
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 120,
+        "h": 87
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 87
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_tab_christmas": {
+      "frame": {
+        "x": 132,
+        "y": 1951,
+        "w": 106,
+        "h": 87
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 106,
+        "h": 87
+      },
+      "sourceSize": {
+        "w": 106,
+        "h": 87
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ui_btn_price_line": {
+      "frame": {
+        "x": 246,
+        "y": 1951,
+        "w": 88,
+        "h": 17
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 88,
+        "h": 17
+      },
+      "sourceSize": {
+        "w": 88,
+        "h": 17
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bg_marketplace_gems01": {
+      "frame": {
+        "x": 336,
+        "y": 4,
+        "w": 324,
+        "h": 641
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 324,
+        "h": 641
+      },
+      "sourceSize": {
+        "w": 324,
+        "h": 641
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bg_marketplace_halloween01": {
+      "frame": {
+        "x": 336,
+        "y": 653,
+        "w": 324,
+        "h": 641
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 324,
+        "h": 641
+      },
+      "sourceSize": {
+        "w": 324,
+        "h": 641
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bg_marketplace_christmas02": {
+      "frame": {
+        "x": 336,
+        "y": 1302,
+        "w": 311,
+        "h": 205
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 311,
+        "h": 205
+      },
+      "sourceSize": {
+        "w": 311,
+        "h": 205
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bg_marketplace_christmas03": {
+      "frame": {
+        "x": 336,
+        "y": 1515,
+        "w": 311,
+        "h": 205
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 311,
+        "h": 205
+      },
+      "sourceSize": {
+        "w": 311,
+        "h": 205
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bg_marketplace_christmas04": {
+      "frame": {
+        "x": 336,
+        "y": 1728,
+        "w": 311,
+        "h": 205
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 311,
+        "h": 205
+      },
+      "sourceSize": {
+        "w": 311,
+        "h": 205
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bg_marketplace_crates02": {
+      "frame": {
+        "x": 655,
+        "y": 1302,
+        "w": 311,
+        "h": 205
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 311,
+        "h": 205
+      },
+      "sourceSize": {
+        "w": 311,
+        "h": 205
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bg_marketplace_crates03": {
+      "frame": {
+        "x": 655,
+        "y": 1515,
+        "w": 311,
+        "h": 205
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 311,
+        "h": 205
+      },
+      "sourceSize": {
+        "w": 311,
+        "h": 205
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bg_marketplace_crates04": {
+      "frame": {
+        "x": 655,
+        "y": 1728,
+        "w": 311,
+        "h": 205
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 311,
+        "h": 205
+      },
+      "sourceSize": {
+        "w": 311,
+        "h": 205
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bg_marketplace_energy02": {
+      "frame": {
+        "x": 974,
+        "y": 4,
+        "w": 311,
+        "h": 205
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 311,
+        "h": 205
+      },
+      "sourceSize": {
+        "w": 311,
+        "h": 205
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bg_marketplace_energy03": {
+      "frame": {
+        "x": 1293,
+        "y": 4,
+        "w": 311,
+        "h": 205
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 311,
+        "h": 205
+      },
+      "sourceSize": {
+        "w": 311,
+        "h": 205
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bg_marketplace_energy04": {
+      "frame": {
+        "x": 1612,
+        "y": 4,
+        "w": 311,
+        "h": 205
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 311,
+        "h": 205
+      },
+      "sourceSize": {
+        "w": 311,
+        "h": 205
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bg_marketplace_gems02": {
+      "frame": {
+        "x": 974,
+        "y": 217,
+        "w": 311,
+        "h": 205
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 311,
+        "h": 205
+      },
+      "sourceSize": {
+        "w": 311,
+        "h": 205
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bg_marketplace_gems03": {
+      "frame": {
+        "x": 1293,
+        "y": 217,
+        "w": 311,
+        "h": 205
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 311,
+        "h": 205
+      },
+      "sourceSize": {
+        "w": 311,
+        "h": 205
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bg_marketplace_gems04": {
+      "frame": {
+        "x": 1612,
+        "y": 217,
+        "w": 311,
+        "h": 205
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 311,
+        "h": 205
+      },
+      "sourceSize": {
+        "w": 311,
+        "h": 205
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bg_marketplace_halloween02": {
+      "frame": {
+        "x": 668,
+        "y": 430,
+        "w": 311,
+        "h": 205
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 311,
+        "h": 205
+      },
+      "sourceSize": {
+        "w": 311,
+        "h": 205
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bg_marketplace_halloween03": {
+      "frame": {
+        "x": 668,
+        "y": 643,
+        "w": 311,
+        "h": 205
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 311,
+        "h": 205
+      },
+      "sourceSize": {
+        "w": 311,
+        "h": 205
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bg_marketplace_halloween04": {
+      "frame": {
+        "x": 668,
+        "y": 856,
+        "w": 311,
+        "h": 205
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 311,
+        "h": 205
+      },
+      "sourceSize": {
+        "w": 311,
+        "h": 205
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/odrick/free-tex-packer-core",
+    "version": "0.3.4",
+    "image": "marketplace.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1927,
+      "h": 2042
+    },
+    "scale": 0.6692307692307692
+  }
+}

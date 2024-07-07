@@ -1,0 +1,495 @@
+{
+  "frames": {
+    "icon_popup_christmas_explanation": {
+      "frame": {
+        "x": 4,
+        "y": 4,
+        "w": 672,
+        "h": 459
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 672,
+        "h": 459
+      },
+      "sourceSize": {
+        "w": 672,
+        "h": 459
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "popup_eventheader_christmas": {
+      "frame": {
+        "x": 684,
+        "y": 4,
+        "w": 662,
+        "h": 331
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 662,
+        "h": 331
+      },
+      "sourceSize": {
+        "w": 662,
+        "h": 331
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_eventimage_christmas": {
+      "frame": {
+        "x": 1354,
+        "y": 4,
+        "w": 656,
+        "h": 355
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 656,
+        "h": 355
+      },
+      "sourceSize": {
+        "w": 656,
+        "h": 355
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_eventimage_christmasshop": {
+      "frame": {
+        "x": 684,
+        "y": 343,
+        "w": 656,
+        "h": 355
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 656,
+        "h": 355
+      },
+      "sourceSize": {
+        "w": 656,
+        "h": 355
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_eventimage_christmas1": {
+      "frame": {
+        "x": 4,
+        "y": 471,
+        "w": 356,
+        "h": 361
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 356,
+        "h": 361
+      },
+      "sourceSize": {
+        "w": 356,
+        "h": 361
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "btn_HUD_event_christmas_down": {
+      "frame": {
+        "x": 368,
+        "y": 471,
+        "w": 130,
+        "h": 107
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 130,
+        "h": 107
+      },
+      "sourceSize": {
+        "w": 130,
+        "h": 107
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "btn_HUD_event_christmas_idle": {
+      "frame": {
+        "x": 506,
+        "y": 471,
+        "w": 130,
+        "h": 107
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 130,
+        "h": 107
+      },
+      "sourceSize": {
+        "w": 130,
+        "h": 107
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_progressbar_christmas_lootchest": {
+      "frame": {
+        "x": 368,
+        "y": 586,
+        "w": 114,
+        "h": 109
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 114,
+        "h": 109
+      },
+      "sourceSize": {
+        "w": 114,
+        "h": 109
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_progressbar_christmas_lootchest_sepia": {
+      "frame": {
+        "x": 490,
+        "y": 586,
+        "w": 114,
+        "h": 109
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 114,
+        "h": 109
+      },
+      "sourceSize": {
+        "w": 114,
+        "h": 109
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_btn_event_green_christmas": {
+      "frame": {
+        "x": 612,
+        "y": 586,
+        "w": 64,
+        "h": 72
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 72
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 72
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_progressbar_christmas_key": {
+      "frame": {
+        "x": 612,
+        "y": 666,
+        "w": 63,
+        "h": 97
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 63,
+        "h": 97
+      },
+      "sourceSize": {
+        "w": 63,
+        "h": 97
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "UI_progressbar_events_goal_christmas": {
+      "frame": {
+        "x": 368,
+        "y": 703,
+        "w": 103,
+        "h": 96
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 103,
+        "h": 96
+      },
+      "sourceSize": {
+        "w": 103,
+        "h": 96
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_progressbar_event_jingleball": {
+      "frame": {
+        "x": 479,
+        "y": 703,
+        "w": 89,
+        "h": 108
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 89,
+        "h": 108
+      },
+      "sourceSize": {
+        "w": 89,
+        "h": 108
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "UI_progressbar_events_counter_christmas": {
+      "frame": {
+        "x": 368,
+        "y": 807,
+        "w": 84,
+        "h": 57
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 84,
+        "h": 57
+      },
+      "sourceSize": {
+        "w": 84,
+        "h": 57
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_eventimage_christmas2": {
+      "frame": {
+        "x": 4,
+        "y": 840,
+        "w": 356,
+        "h": 361
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 356,
+        "h": 361
+      },
+      "sourceSize": {
+        "w": 356,
+        "h": 361
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "UI_progressbar_events_background_christmas": {
+      "frame": {
+        "x": 1348,
+        "y": 367,
+        "w": 74,
+        "h": 77
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 74,
+        "h": 77
+      },
+      "sourceSize": {
+        "w": 74,
+        "h": 77
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_progressbar_christmas_key_sepia": {
+      "frame": {
+        "x": 1430,
+        "y": 367,
+        "w": 63,
+        "h": 97
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 63,
+        "h": 97
+      },
+      "sourceSize": {
+        "w": 63,
+        "h": 97
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "UI_progressbar_events_smallgiftgift_christmas": {
+      "frame": {
+        "x": 1348,
+        "y": 452,
+        "w": 51,
+        "h": 55
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 51,
+        "h": 55
+      },
+      "sourceSize": {
+        "w": 51,
+        "h": 55
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "UI_progressbar_events_smallgiftgift_christmas_sepia": {
+      "frame": {
+        "x": 1501,
+        "y": 367,
+        "w": 51,
+        "h": 55
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 51,
+        "h": 55
+      },
+      "sourceSize": {
+        "w": 51,
+        "h": 55
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "UI_progressbar_events_smallgift_christmas": {
+      "frame": {
+        "x": 1560,
+        "y": 367,
+        "w": 48,
+        "h": 181
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 181
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 181
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/odrick/free-tex-packer-core",
+    "version": "0.3.4",
+    "image": "events_goldenchristmas.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 2014,
+      "h": 1205
+    },
+    "scale": 0.6692307692307692
+  }
+}

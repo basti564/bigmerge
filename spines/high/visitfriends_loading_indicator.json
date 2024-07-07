@@ -1,0 +1,135 @@
+{
+  "frames": {
+    "s_train_track": {
+      "frame": {
+        "x": 4,
+        "y": 4,
+        "w": 664,
+        "h": 4
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 664,
+        "h": 4
+      },
+      "sourceSize": {
+        "w": 664,
+        "h": 4
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "s_train": {
+      "frame": {
+        "x": 676,
+        "y": 4,
+        "w": 261,
+        "h": 81
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 261,
+        "h": 81
+      },
+      "sourceSize": {
+        "w": 261,
+        "h": 81
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "s_smoke": {
+      "frame": {
+        "x": 4,
+        "y": 16,
+        "w": 52,
+        "h": 53
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 52,
+        "h": 53
+      },
+      "sourceSize": {
+        "w": 52,
+        "h": 53
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "s_tree": {
+      "frame": {
+        "x": 64,
+        "y": 16,
+        "w": 49,
+        "h": 104
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 49,
+        "h": 104
+      },
+      "sourceSize": {
+        "w": 49,
+        "h": 104
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "s_train_drive": {
+      "frame": {
+        "x": 4,
+        "y": 77,
+        "w": 27,
+        "h": 7
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 27,
+        "h": 7
+      },
+      "sourceSize": {
+        "w": 27,
+        "h": 7
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/odrick/free-tex-packer-core",
+    "version": "0.3.4",
+    "image": "visitfriends_loading_indicator.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 941,
+      "h": 124
+    },
+    "scale": 0.6692307692307692
+  }
+}

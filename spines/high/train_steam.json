@@ -1,0 +1,279 @@
+{
+  "frames": {
+    "train_smoke_04": {
+      "frame": {
+        "x": 4,
+        "y": 4,
+        "w": 57,
+        "h": 54
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 57,
+        "h": 54
+      },
+      "sourceSize": {
+        "w": 57,
+        "h": 54
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "train_smoke_12": {
+      "frame": {
+        "x": 69,
+        "y": 4,
+        "w": 54,
+        "h": 51
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 54,
+        "h": 51
+      },
+      "sourceSize": {
+        "w": 54,
+        "h": 51
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "train_smoke_05": {
+      "frame": {
+        "x": 131,
+        "y": 4,
+        "w": 50,
+        "h": 49
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 50,
+        "h": 49
+      },
+      "sourceSize": {
+        "w": 50,
+        "h": 49
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "train_smoke_11": {
+      "frame": {
+        "x": 189,
+        "y": 4,
+        "w": 49,
+        "h": 44
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 49,
+        "h": 44
+      },
+      "sourceSize": {
+        "w": 49,
+        "h": 44
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "train_smoke_09": {
+      "frame": {
+        "x": 246,
+        "y": 4,
+        "w": 47,
+        "h": 48
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 47,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 47,
+        "h": 48
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "train_smoke_06": {
+      "frame": {
+        "x": 189,
+        "y": 56,
+        "w": 47,
+        "h": 46
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 47,
+        "h": 46
+      },
+      "sourceSize": {
+        "w": 47,
+        "h": 46
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "train_smoke_07": {
+      "frame": {
+        "x": 131,
+        "y": 61,
+        "w": 47,
+        "h": 46
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 47,
+        "h": 46
+      },
+      "sourceSize": {
+        "w": 47,
+        "h": 46
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "train_smoke_10": {
+      "frame": {
+        "x": 69,
+        "y": 63,
+        "w": 42,
+        "h": 46
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 42,
+        "h": 46
+      },
+      "sourceSize": {
+        "w": 42,
+        "h": 46
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "train_smoke_13": {
+      "frame": {
+        "x": 4,
+        "y": 66,
+        "w": 37,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 37,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 37,
+        "h": 32
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "train_smoke_14": {
+      "frame": {
+        "x": 4,
+        "y": 106,
+        "w": 26,
+        "h": 26
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 26,
+        "h": 26
+      },
+      "sourceSize": {
+        "w": 26,
+        "h": 26
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "train_smoke_08": {
+      "frame": {
+        "x": 131,
+        "y": 61,
+        "w": 47,
+        "h": 46
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 47,
+        "h": 46
+      },
+      "sourceSize": {
+        "w": 47,
+        "h": 46
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/odrick/free-tex-packer-core",
+    "version": "0.3.4",
+    "image": "train_steam.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 297,
+      "h": 136
+    },
+    "scale": 0.6692307692307692
+  }
+}

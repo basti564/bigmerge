@@ -1,0 +1,87 @@
+{
+  "frames": {
+    "btn_rank_level_circle_green": {
+      "frame": {
+        "x": 4,
+        "y": 4,
+        "w": 740,
+        "h": 740
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 740,
+        "h": 740
+      },
+      "sourceSize": {
+        "w": 740,
+        "h": 740
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "s_paticle_clover": {
+      "frame": {
+        "x": 4,
+        "y": 752,
+        "w": 68,
+        "h": 68
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 68,
+        "h": 68
+      },
+      "sourceSize": {
+        "w": 68,
+        "h": 68
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Merge_lucky_Floater": {
+      "frame": {
+        "x": 4,
+        "y": 828,
+        "w": 1,
+        "h": 1
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 1,
+        "h": 1
+      },
+      "sourceSize": {
+        "w": 1,
+        "h": 1
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/odrick/free-tex-packer-core",
+    "version": "0.3.4",
+    "image": "lucky_merge_effect.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 748,
+      "h": 833
+    },
+    "scale": 0.6692307692307692
+  }
+}

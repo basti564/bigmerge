@@ -1,0 +1,111 @@
+{
+  "frames": {
+    "dust_pink_04": {
+      "frame": {
+        "x": 4,
+        "y": 4,
+        "w": 130,
+        "h": 84
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 130,
+        "h": 84
+      },
+      "sourceSize": {
+        "w": 130,
+        "h": 84
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "dust_pink_02": {
+      "frame": {
+        "x": 142,
+        "y": 4,
+        "w": 92,
+        "h": 71
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 92,
+        "h": 71
+      },
+      "sourceSize": {
+        "w": 92,
+        "h": 71
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "dust_pink_01": {
+      "frame": {
+        "x": 242,
+        "y": 4,
+        "w": 62,
+        "h": 46
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 62,
+        "h": 46
+      },
+      "sourceSize": {
+        "w": 62,
+        "h": 46
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "dust_pink_03": {
+      "frame": {
+        "x": 312,
+        "y": 4,
+        "w": 48,
+        "h": 42
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 42
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 42
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/odrick/free-tex-packer-core",
+    "version": "0.3.4",
+    "image": "premium_land.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 364,
+      "h": 92
+    },
+    "scale": 0.6692307692307692
+  }
+}

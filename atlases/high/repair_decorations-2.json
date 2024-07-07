@@ -1,0 +1,351 @@
+{
+  "frames": {
+    "obj_decorateive_farmhouseunlock": {
+      "frame": {
+        "x": 4,
+        "y": 4,
+        "w": 842,
+        "h": 618
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 842,
+        "h": 618
+      },
+      "sourceSize": {
+        "w": 842,
+        "h": 618
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "obj_decorateive_silo_repair": {
+      "frame": {
+        "x": 854,
+        "y": 4,
+        "w": 816,
+        "h": 774
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 816,
+        "h": 774
+      },
+      "sourceSize": {
+        "w": 816,
+        "h": 774
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "obj_decorateive_milktank_unlock": {
+      "frame": {
+        "x": 1678,
+        "y": 4,
+        "w": 357,
+        "h": 427
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 357,
+        "h": 427
+      },
+      "sourceSize": {
+        "w": 357,
+        "h": 427
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "obj_decorateive_silo_unlock": {
+      "frame": {
+        "x": 4,
+        "y": 630,
+        "w": 816,
+        "h": 774
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 816,
+        "h": 774
+      },
+      "sourceSize": {
+        "w": 816,
+        "h": 774
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "obj_decorateive_birdshouse_unlock": {
+      "frame": {
+        "x": 1678,
+        "y": 439,
+        "w": 327,
+        "h": 275
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 327,
+        "h": 275
+      },
+      "sourceSize": {
+        "w": 327,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "obj_decorateive_milktank_repair": {
+      "frame": {
+        "x": 4,
+        "y": 1412,
+        "w": 395,
+        "h": 426
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 395,
+        "h": 426
+      },
+      "sourceSize": {
+        "w": 395,
+        "h": 426
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "obj_decorateive_haywagon_repair": {
+      "frame": {
+        "x": 407,
+        "y": 1412,
+        "w": 549,
+        "h": 356
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 549,
+        "h": 356
+      },
+      "sourceSize": {
+        "w": 549,
+        "h": 356
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "obj_decorateive_flowerpots_repair": {
+      "frame": {
+        "x": 828,
+        "y": 1776,
+        "w": 384,
+        "h": 243
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 384,
+        "h": 243
+      },
+      "sourceSize": {
+        "w": 384,
+        "h": 243
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "obj_decorateive_doghouse_repair": {
+      "frame": {
+        "x": 407,
+        "y": 1776,
+        "w": 389,
+        "h": 240
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 389,
+        "h": 240
+      },
+      "sourceSize": {
+        "w": 389,
+        "h": 240
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "obj_decorateive_watertower_unlock": {
+      "frame": {
+        "x": 1220,
+        "y": 786,
+        "w": 707,
+        "h": 774
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 707,
+        "h": 774
+      },
+      "sourceSize": {
+        "w": 707,
+        "h": 774
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "obj_decorateive_feedingtrough_unlock": {
+      "frame": {
+        "x": 828,
+        "y": 786,
+        "w": 383,
+        "h": 230
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 383,
+        "h": 230
+      },
+      "sourceSize": {
+        "w": 383,
+        "h": 230
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "obj_decorateive_flowerpots_unlock": {
+      "frame": {
+        "x": 828,
+        "y": 1024,
+        "w": 381,
+        "h": 269
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 381,
+        "h": 269
+      },
+      "sourceSize": {
+        "w": 381,
+        "h": 269
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "obj_decorateive_chickencoop_unlock": {
+      "frame": {
+        "x": 1220,
+        "y": 1568,
+        "w": 395,
+        "h": 301
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 395,
+        "h": 301
+      },
+      "sourceSize": {
+        "w": 395,
+        "h": 301
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "obj_decorateive_doghouse_unlock": {
+      "frame": {
+        "x": 1623,
+        "y": 1568,
+        "w": 389,
+        "h": 269
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 389,
+        "h": 269
+      },
+      "sourceSize": {
+        "w": 389,
+        "h": 269
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/odrick/free-tex-packer-core",
+    "version": "0.3.4",
+    "image": "repair_decorations-2.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 2039,
+      "h": 2023
+    },
+    "scale": 0.6692307692307692
+  }
+}

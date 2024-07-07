@@ -1,0 +1,39 @@
+{
+  "frames": {
+    "popup_bg_consent_9slice": {
+      "frame": {
+        "x": 4,
+        "y": 4,
+        "w": 398,
+        "h": 497
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 398,
+        "h": 497
+      },
+      "sourceSize": {
+        "w": 398,
+        "h": 497
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/odrick/free-tex-packer-core",
+    "version": "0.3.4",
+    "image": "consent.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 406,
+      "h": 505
+    },
+    "scale": 0.6692307692307692
+  }
+}

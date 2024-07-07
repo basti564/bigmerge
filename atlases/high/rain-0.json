@@ -1,0 +1,207 @@
+{
+  "frames": {
+    "rain_streaks01": {
+      "frame": {
+        "x": 4,
+        "y": 4,
+        "w": 685,
+        "h": 1936
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 685,
+        "h": 1936
+      },
+      "sourceSize": {
+        "w": 685,
+        "h": 1936
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "rain_spatter_01": {
+      "frame": {
+        "x": 4,
+        "y": 1948,
+        "w": 284,
+        "h": 92
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 284,
+        "h": 92
+      },
+      "sourceSize": {
+        "w": 284,
+        "h": 92
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "rain_spatter_02": {
+      "frame": {
+        "x": 296,
+        "y": 1948,
+        "w": 284,
+        "h": 92
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 284,
+        "h": 92
+      },
+      "sourceSize": {
+        "w": 284,
+        "h": 92
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "rain_spatter_03": {
+      "frame": {
+        "x": 588,
+        "y": 1948,
+        "w": 284,
+        "h": 92
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 284,
+        "h": 92
+      },
+      "sourceSize": {
+        "w": 284,
+        "h": 92
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "rain_streaks02": {
+      "frame": {
+        "x": 697,
+        "y": 4,
+        "w": 685,
+        "h": 1936
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 685,
+        "h": 1936
+      },
+      "sourceSize": {
+        "w": 685,
+        "h": 1936
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "rain_spatter_train01": {
+      "frame": {
+        "x": 1390,
+        "y": 4,
+        "w": 565,
+        "h": 249
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 565,
+        "h": 249
+      },
+      "sourceSize": {
+        "w": 565,
+        "h": 249
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "rain_spatter_train02": {
+      "frame": {
+        "x": 1390,
+        "y": 261,
+        "w": 565,
+        "h": 249
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 565,
+        "h": 249
+      },
+      "sourceSize": {
+        "w": 565,
+        "h": 249
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "rain_spatter_train03": {
+      "frame": {
+        "x": 1390,
+        "y": 518,
+        "w": 565,
+        "h": 249
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 565,
+        "h": 249
+      },
+      "sourceSize": {
+        "w": 565,
+        "h": 249
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/odrick/free-tex-packer-core",
+    "version": "0.3.4",
+    "image": "rain-0.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1959,
+      "h": 2044
+    },
+    "scale": 0.6692307692307692
+  }
+}

@@ -1,0 +1,471 @@
+{
+  "frames": {
+    "decorative_04": {
+      "frame": {
+        "x": 4,
+        "y": 4,
+        "w": 1338,
+        "h": 1125
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 1338,
+        "h": 1125
+      },
+      "sourceSize": {
+        "w": 1338,
+        "h": 1125
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bottom_background": {
+      "frame": {
+        "x": 4,
+        "y": 1137,
+        "w": 986,
+        "h": 686
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 986,
+        "h": 686
+      },
+      "sourceSize": {
+        "w": 986,
+        "h": 686
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "tree": {
+      "frame": {
+        "x": 4,
+        "y": 1831,
+        "w": 105,
+        "h": 134
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 105,
+        "h": 134
+      },
+      "sourceSize": {
+        "w": 105,
+        "h": 134
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bush2": {
+      "frame": {
+        "x": 4,
+        "y": 1973,
+        "w": 63,
+        "h": 60
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 63,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 63,
+        "h": 60
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bush": {
+      "frame": {
+        "x": 75,
+        "y": 1973,
+        "w": 67,
+        "h": 58
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 67,
+        "h": 58
+      },
+      "sourceSize": {
+        "w": 67,
+        "h": 58
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stone_path": {
+      "frame": {
+        "x": 117,
+        "y": 1831,
+        "w": 189,
+        "h": 129
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 189,
+        "h": 129
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 129
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "fence1": {
+      "frame": {
+        "x": 150,
+        "y": 1968,
+        "w": 120,
+        "h": 75
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 120,
+        "h": 75
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 75
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bench": {
+      "frame": {
+        "x": 278,
+        "y": 1968,
+        "w": 86,
+        "h": 75
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 86,
+        "h": 75
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 75
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "cute_lights": {
+      "frame": {
+        "x": 314,
+        "y": 1831,
+        "w": 86,
+        "h": 116
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 86,
+        "h": 116
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 116
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "pot": {
+      "frame": {
+        "x": 372,
+        "y": 1955,
+        "w": 27,
+        "h": 38
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 27,
+        "h": 38
+      },
+      "sourceSize": {
+        "w": 27,
+        "h": 38
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "grass2": {
+      "frame": {
+        "x": 372,
+        "y": 2001,
+        "w": 25,
+        "h": 34
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 34
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 34
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "grass3": {
+      "frame": {
+        "x": 405,
+        "y": 2001,
+        "w": 15,
+        "h": 25
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 15,
+        "h": 25
+      },
+      "sourceSize": {
+        "w": 15,
+        "h": 25
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "empty_pot": {
+      "frame": {
+        "x": 407,
+        "y": 1955,
+        "w": 21,
+        "h": 22
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 21,
+        "h": 22
+      },
+      "sourceSize": {
+        "w": 21,
+        "h": 22
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "lamp_post": {
+      "frame": {
+        "x": 428,
+        "y": 1831,
+        "w": 31,
+        "h": 104
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 31,
+        "h": 104
+      },
+      "sourceSize": {
+        "w": 31,
+        "h": 104
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "shed": {
+      "frame": {
+        "x": 436,
+        "y": 1943,
+        "w": 123,
+        "h": 94
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 123,
+        "h": 94
+      },
+      "sourceSize": {
+        "w": 123,
+        "h": 94
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "grass1": {
+      "frame": {
+        "x": 567,
+        "y": 1943,
+        "w": 14,
+        "h": 19
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 14,
+        "h": 19
+      },
+      "sourceSize": {
+        "w": 14,
+        "h": 19
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "decorative_01": {
+      "frame": {
+        "x": 998,
+        "y": 1137,
+        "w": 882,
+        "h": 584
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 882,
+        "h": 584
+      },
+      "sourceSize": {
+        "w": 882,
+        "h": 584
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "tile_decal_traintrack_switch": {
+      "frame": {
+        "x": 998,
+        "y": 1729,
+        "w": 390,
+        "h": 214
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 390,
+        "h": 214
+      },
+      "sourceSize": {
+        "w": 390,
+        "h": 214
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "decorative_03": {
+      "frame": {
+        "x": 1350,
+        "y": 4,
+        "w": 439,
+        "h": 604
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 439,
+        "h": 604
+      },
+      "sourceSize": {
+        "w": 439,
+        "h": 604
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/odrick/free-tex-packer-core",
+    "version": "0.3.4",
+    "image": "decals-0.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1884,
+      "h": 2047
+    },
+    "scale": 0.6692307692307692
+  }
+}

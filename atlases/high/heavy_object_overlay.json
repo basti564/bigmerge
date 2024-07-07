@@ -1,0 +1,159 @@
+{
+  "frames": {
+    "heavy_object_hay_overlay": {
+      "frame": {
+        "x": 4,
+        "y": 4,
+        "w": 712,
+        "h": 364
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 712,
+        "h": 364
+      },
+      "sourceSize": {
+        "w": 712,
+        "h": 364
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "heavy_object_traktor_overlay": {
+      "frame": {
+        "x": 724,
+        "y": 4,
+        "w": 712,
+        "h": 364
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 712,
+        "h": 364
+      },
+      "sourceSize": {
+        "w": 712,
+        "h": 364
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "heavy_object_wheel_overlay": {
+      "frame": {
+        "x": 1444,
+        "y": 4,
+        "w": 363,
+        "h": 183
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 363,
+        "h": 183
+      },
+      "sourceSize": {
+        "w": 363,
+        "h": 183
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_btn_facebook": {
+      "frame": {
+        "x": 1815,
+        "y": 4,
+        "w": 76,
+        "h": 77
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 76,
+        "h": 77
+      },
+      "sourceSize": {
+        "w": 76,
+        "h": 77
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_btn_messenger": {
+      "frame": {
+        "x": 1899,
+        "y": 4,
+        "w": 52,
+        "h": 52
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 52,
+        "h": 52
+      },
+      "sourceSize": {
+        "w": 52,
+        "h": 52
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_checkmark_friends": {
+      "frame": {
+        "x": 1959,
+        "y": 4,
+        "w": 29,
+        "h": 30
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 29,
+        "h": 30
+      },
+      "sourceSize": {
+        "w": 29,
+        "h": 30
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/odrick/free-tex-packer-core",
+    "version": "0.3.4",
+    "image": "heavy_object_overlay.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1992,
+      "h": 372
+    },
+    "scale": 0.6692307692307692
+  }
+}

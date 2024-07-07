@@ -1,0 +1,39 @@
+{
+  "frames": {
+    "icon_popup_shovel_explanation": {
+      "frame": {
+        "x": 4,
+        "y": 4,
+        "w": 589,
+        "h": 170
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 589,
+        "h": 170
+      },
+      "sourceSize": {
+        "w": 589,
+        "h": 170
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/odrick/free-tex-packer-core",
+    "version": "0.3.4",
+    "image": "shovel_popup.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 597,
+      "h": 178
+    },
+    "scale": 0.6692307692307692
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "frames": {
+    "icon_invitefriends_crates": {
+      "frame": {
+        "x": 4,
+        "y": 4,
+        "w": 333,
+        "h": 336
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 333,
+        "h": 336
+      },
+      "sourceSize": {
+        "w": 333,
+        "h": 336
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/odrick/free-tex-packer-core",
+    "version": "0.3.4",
+    "image": "friends_for_crates.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 341,
+      "h": 344
+    },
+    "scale": 0.6692307692307692
+  }
+}

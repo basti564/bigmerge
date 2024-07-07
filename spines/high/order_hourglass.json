@@ -1,0 +1,39 @@
+{
+  "frames": {
+    "icon_balloon_hourglass": {
+      "frame": {
+        "x": 4,
+        "y": 4,
+        "w": 90,
+        "h": 99
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 90,
+        "h": 99
+      },
+      "sourceSize": {
+        "w": 90,
+        "h": 99
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/odrick/free-tex-packer-core",
+    "version": "0.3.4",
+    "image": "order_hourglass.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 98,
+      "h": 107
+    },
+    "scale": 0.6692307692307692
+  }
+}

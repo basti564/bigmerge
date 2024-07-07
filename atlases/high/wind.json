@@ -1,0 +1,39 @@
+{
+  "frames": {
+    "wind_trail": {
+      "frame": {
+        "x": 4,
+        "y": 4,
+        "w": 171,
+        "h": 5
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 171,
+        "h": 5
+      },
+      "sourceSize": {
+        "w": 171,
+        "h": 5
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/odrick/free-tex-packer-core",
+    "version": "0.3.4",
+    "image": "wind.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 179,
+      "h": 13
+    },
+    "scale": 0.6692307692307692
+  }
+}

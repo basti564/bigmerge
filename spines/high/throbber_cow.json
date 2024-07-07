@@ -1,0 +1,351 @@
+{
+  "frames": {
+    "s_cow": {
+      "frame": {
+        "x": 4,
+        "y": 4,
+        "w": 337,
+        "h": 338
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 337,
+        "h": 338
+      },
+      "sourceSize": {
+        "w": 337,
+        "h": 338
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "s_cow_bg": {
+      "frame": {
+        "x": 4,
+        "y": 350,
+        "w": 337,
+        "h": 338
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 337,
+        "h": 338
+      },
+      "sourceSize": {
+        "w": 337,
+        "h": 338
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "s_cow_snout_lower": {
+      "frame": {
+        "x": 4,
+        "y": 696,
+        "w": 152,
+        "h": 117
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 152,
+        "h": 117
+      },
+      "sourceSize": {
+        "w": 152,
+        "h": 117
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "s_cow_snout_upper": {
+      "frame": {
+        "x": 4,
+        "y": 821,
+        "w": 135,
+        "h": 88
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 135,
+        "h": 88
+      },
+      "sourceSize": {
+        "w": 135,
+        "h": 88
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "s_cow_ear_front": {
+      "frame": {
+        "x": 4,
+        "y": 917,
+        "w": 76,
+        "h": 76
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 76,
+        "h": 76
+      },
+      "sourceSize": {
+        "w": 76,
+        "h": 76
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "s_cow_eyes_1": {
+      "frame": {
+        "x": 4,
+        "y": 1001,
+        "w": 158,
+        "h": 67
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 158,
+        "h": 67
+      },
+      "sourceSize": {
+        "w": 158,
+        "h": 67
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "txt_loading": {
+      "frame": {
+        "x": 88,
+        "y": 917,
+        "w": 189,
+        "h": 62
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 189,
+        "h": 62
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 62
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "s_cow_eyes_3": {
+      "frame": {
+        "x": 147,
+        "y": 821,
+        "w": 163,
+        "h": 59
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 163,
+        "h": 59
+      },
+      "sourceSize": {
+        "w": 163,
+        "h": 59
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "s_grass_single": {
+      "frame": {
+        "x": 147,
+        "y": 888,
+        "w": 63,
+        "h": 14
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 63,
+        "h": 14
+      },
+      "sourceSize": {
+        "w": 63,
+        "h": 14
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "txt_loading_dot": {
+      "frame": {
+        "x": 218,
+        "y": 888,
+        "w": 11,
+        "h": 10
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 11,
+        "h": 10
+      },
+      "sourceSize": {
+        "w": 11,
+        "h": 10
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "s_cow_eyes_2": {
+      "frame": {
+        "x": 164,
+        "y": 696,
+        "w": 165,
+        "h": 58
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 165,
+        "h": 58
+      },
+      "sourceSize": {
+        "w": 165,
+        "h": 58
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "s_cow_ear_back": {
+      "frame": {
+        "x": 164,
+        "y": 762,
+        "w": 88,
+        "h": 38
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 88,
+        "h": 38
+      },
+      "sourceSize": {
+        "w": 88,
+        "h": 38
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "s_cow_cheek_highlight": {
+      "frame": {
+        "x": 260,
+        "y": 762,
+        "w": 62,
+        "h": 24
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 62,
+        "h": 24
+      },
+      "sourceSize": {
+        "w": 62,
+        "h": 24
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "s_grass": {
+      "frame": {
+        "x": 4,
+        "y": 1076,
+        "w": 58,
+        "h": 54
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 58,
+        "h": 54
+      },
+      "sourceSize": {
+        "w": 58,
+        "h": 54
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/odrick/free-tex-packer-core",
+    "version": "0.3.4",
+    "image": "throbber_cow.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 345,
+      "h": 1134
+    },
+    "scale": 0.6692307692307692
+  }
+}
